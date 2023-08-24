@@ -1,0 +1,20 @@
+from Graph import *
+
+vertex_a = Vertex(1, {'name': 'vertex_a'})
+vertex_b = Vertex(2, {'name': 'vertex_b'})
+vertex_c = Vertex(3, {'name': 'vertex_c'})
+edge_a_b = Edge(4, vertex_a, vertex_b, {'name': 'edge_a_b'})
+graph = Graph('TheGraph')
+
+edge_a_b.show_id()
+edge_a_b.show_label()
+edge_a_b.show_properties()
+edge_a_b.show_from_vertex()
+edge_a_b.show_to_vertex()
+graph.show_adj_matrix()
+graph.add_vertex(vertex_a)
+graph.show_adj_matrix()
+graph.add_vertex(vertex_b)
+graph.show_adj_matrix()
+graph.add_vertex(vertex_c)
+graph.show_adj_matrix()

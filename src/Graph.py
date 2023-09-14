@@ -55,6 +55,18 @@ class Graph:
         self.adj_matrix = []
 
     def add_vertex(self, vertex:Vertex) -> bool:
+        """
+        Adds a vertex to the graph.
+
+        This function adds a vertex to the graph and updates the adjacency matrix accordingly.
+        It checks if the vertex with the same ID already exists in the graph to avoid duplicates.
+
+        :param vertex: The vertex to be added.
+        :type vertex: Vertex
+        :return: True if the vertex was added successfully, False otherwise.
+        :rtype: bool
+        """
+        
         # Check if the vertex already exists.
         for v in self.vertices:
             if v.id == vertex.id:
@@ -81,7 +93,20 @@ class Graph:
         return True
     
     
-    def add_edge(self, edge:Edge):
+    def add_edge(self, edge:Edge) -> bool:
+        """
+        Adds an edge to the graph.
+
+        This function adds an edge to the graph, and if the vertices
+        of the edge don't already exist in the graph, it adds them as well.
+        It also checks if the edge with the same ID already exists in the graph.
+
+        :param edge: The edge to be added.
+        :type edge: Edge
+        :return: True if the edge was added successfully, False otherwise.
+        :rtype: bool
+        """
+        
         # Initialize the postion variables for the vertices.
         from_pos = -1
         to_pos = -1
@@ -118,6 +143,16 @@ class Graph:
             
 
     def show_adj_matrix(self):
+        """
+        Prints the adjacency matrix of the graph.
+
+        This function prints the adjacency matrix of the graph, where each row and column
+        represent vertices, and the values in the matrix indicate the presence of edges between
+        those vertices. This can be useful for visualizing the graph's structure.
+
+        :return: None
+        """
+        
         for i in range(self.num_vertices):
             print(self.adj_matrix[i])
 

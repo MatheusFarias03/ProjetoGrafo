@@ -58,7 +58,7 @@ class Graph:
         # Check if the vertex already exists.
         for v in self.vertices:
             if v.id == vertex.id:
-                print(f'Vertex with id {vertex.id} already exists in the graph.')
+                print(f'\nERROR: Vertex with id {vertex.id} already exists in the graph.\n')
                 return False
 
         self.vertices.append(vertex)
@@ -79,6 +79,43 @@ class Graph:
                 self.adj_matrix[-1].append(0)
 
         return True
+    
+    
+    def add_edge(self, edge:Edge):
+        # Initialize the postion variables for the vertices.
+        from_pos = -1
+        to_pos = -1
+
+        # 'i' is the index of the 'v' vertex in the 'vertices' list. This section is basically going
+        # to traverse the vertices list and retrieve the index of both vertices so that we can add 
+        # an edge to the respective position in the adjacency matrix.
+        for i, v in enumerate(self.vertices):
+            if edge.from_vertex.id == v.id:
+                from_pos = i
+            elif edge.to_vertex.id == v.id:
+                to_pos = i
+        
+        # If one of the vertices was not found, create the vertex.
+        if from_pos == -1:
+            self.add_vertex(edge.from_vertex)
+            
+        if to_pos == -1:
+            self.add_vertex(edge.to_vertex)
+        
+        # Check if the edge already exists.
+        for e in self.edges:
+            if e.id == edge.id:
+                print(f'\nERROR: Edge with id {edge.id} already exists in the graph.\n')
+                return False                
+        
+        self.edges.append(edge)
+        self.num_edges += 1
+        
+        # Add the edge in the adjacency matrix.
+        self.adj_matrix[from_pos][to_pos] = edge
+        
+        return True
+            
 
     def show_adj_matrix(self):
         for i in range(self.num_vertices):

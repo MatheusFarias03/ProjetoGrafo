@@ -59,6 +59,7 @@ class Graph:
         Adds a vertex to the graph.
 
         This function adds a vertex to the graph and updates the adjacency matrix accordingly.
+        
         It checks if the vertex with the same ID already exists in the graph to avoid duplicates.
 
         :param vertex: The vertex to be added.
@@ -97,8 +98,10 @@ class Graph:
         """
         Adds an edge to the graph.
 
-        This function adds an edge to the graph, and if the vertices
-        of the edge don't already exist in the graph, it adds them as well.
+        This function adds an edge to the graph. 
+        
+        The vertices must have been created before adding the edge.
+        
         It also checks if the edge with the same ID already exists in the graph.
 
         :param edge: The edge to be added.
@@ -120,12 +123,20 @@ class Graph:
             elif edge.to_vertex.id == v.id:
                 to_pos = i
         
-        # If one of the vertices was not found, create the vertex.
+        # If one of the vertices was not found, print an errro saying it is necessart to create the vertex.
         if from_pos == -1:
-            self.add_vertex(edge.from_vertex)
-            
+            print(f'''
+                  \nERROR: from_pos vertex was not added to the graph.\n 
+                  Hint: use <graph>.add_vertex(<from_pos>)\n
+                  ''')
+            return False
+        
         if to_pos == -1:
-            self.add_vertex(edge.to_vertex)
+            print(f'''
+                  \nERROR: to_pos vertex was not added to the graph.\n 
+                  Hint: use <graph>.add_vertex(<from_pos>)\n
+                  ''')
+            return False
         
         # Check if the edge already exists.
         for e in self.edges:
@@ -146,10 +157,6 @@ class Graph:
         """
         Prints the adjacency matrix of the graph.
 
-        This function prints the adjacency matrix of the graph, where each row and column
-        represent vertices, and the values in the matrix indicate the presence of edges between
-        those vertices. This can be useful for visualizing the graph's structure.
-
         :return: None
         """
         
@@ -157,3 +164,42 @@ class Graph:
             print(self.adj_matrix[i])
 
 
+    def get_vertex_outgoing_edges(self, vertex_props:dict, label:str='_ag_label_vertex') -> list:
+        """
+        Retrieves outgoing edges from vertices that match specified properties and label.
+
+        :param vertex_props: A dictionary of properties to match in vertices.
+        :type vertex_props: dict
+        :param label: (Optional) The label to match for vertices. Default is '_ag_label_vertex'.
+        :type label: str
+        :return: A list of outgoing edges from matching vertices.
+        :rtype: list
+        """
+        
+        # List for the position of the corresponding vertices in the adjacency matrix.
+        vertices_pos = []
+        edges_list = []
+        
+        # Traverse the vertices list. For each vertex we see if there is a sequence of values in their
+        # 'properties' dictionary that matches the given criteria in the 'vertex_props' dictionary.
+        # All the key-value pairs need to match. If it was provided the 'label' of the vertex, it needs
+        # to match as well.
+        for i, v in enumerate(self.vertices):
+            num_matches = 0
+            for k in vertex_props:
+                if k in v.properties.keys():
+                    if vertex_props[k] == v.properties[k]:
+                        if label != '_ag_label_vertex' and v.label == label:
+                            num_matches += 1
+                        elif label == '_ag_label_vertex':
+                            num_matches += 1
+            
+            if num_matches == len(vertex_props):
+                vertices_pos.append(i)
+        
+        for i in vertices_pos:
+            for j in self.adj_matrix[i]:
+                if j != 0:
+                    edges_list.append(j)
+                    
+        return edges_list

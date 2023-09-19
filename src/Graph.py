@@ -13,6 +13,9 @@ class Vertex:
 
     def show_properties(self):
         print(f'properties: {self.properties}')
+        
+    def show_all(self):
+        print(f'Vertex >> id:{self.id}; properties:{self.properties}; label:{self.label}')
 
 
 class Edge:
@@ -32,16 +35,15 @@ class Edge:
 
     def show_label(self):
         print(f'label: {self.label}')
+        
+    def show_all(self):
+        print(f'Edge >> id:{self.id}; properties:{self.properties}; label:{self.label}; from_vertex.id: {self.from_vertex.id}; to_vertex_id: {self.to_vertex.id}')
 
     def show_from_vertex(self):
-        self.from_vertex.show_id()
-        self.from_vertex.show_label()
-        self.from_vertex.show_properties()
+        self.from_vertex.show_all()
 
     def show_to_vertex(self):
-        self.to_vertex.show_id()
-        self.to_vertex.show_label()
-        self.to_vertex.show_properties()
+        self.to_vertex.show_all()
 
 
 class Graph:

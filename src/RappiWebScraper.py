@@ -82,9 +82,9 @@ class RappiWebScraper:
         return wholesalers_vertices
     
     
-    def get_wholesalers_fish(self, wholesalers_vertices, id_num:int):
+    def get_wholesalers_fish(self, wholesalers_vertices, id_num:int, graph:Graph):
         
-        product_vertices = []
+        filtered_elements = []
         
         if len(wholesalers_vertices) != 0:
             try:
@@ -93,22 +93,30 @@ class RappiWebScraper:
                     self.html_content = requests.get(fish_link)
                     soup = BeautifulSoup(self.html_content.text, 'html.parser')
                     
-                    # Find all the div elements with class "sc-es0vli ilCBrd" which represents each product.
-                    div_elements = soup.find_all('div', {"class": "sc-esOvli.ilCBrd"})
-                    print(div_elements)
-                    
-                    # Loop through the div elements and extract the content
+                    # Find all the div elements with 'data-qa' attribute set to 'product-item-' to get each item.
+                    div_elements = soup.find_all('div')
                     for div in div_elements:
-                        product_name = div.find('div', {'data-qa': 'product-name'})
-                        product_description = div.find('span', {'data-qa': 'product-description'})
-                        product_price = div.find('span', {'data-qa': 'product-price'})
+                        data_qa = div.get('data-qa', '')
+                        if data_qa.startswith('product-item-'):
+                            filtered_elements.append(div)
+                    
+                    # Loop through the filtered divs and retrieve each property.
+                    for div in filtered_elements:
+                        product_name = div.find('h3', {'data-qa': 'product-name'}).get_text()
+                        product_price = div.find('span', {'data-qa': 'product-price'}).get_text()
+                        product_pum = div.find('span', {'data-qa': 'product-pum'}).get_text()
+                        product_description = div.find('span', {'data-qa': 'product-description'}).get_text()
+                    
+                        product = Vertex(id=id_num, properties={'name': product_name, 
+                                                                'description': product_description, 
+                                                                'price': product_price},
+                                         label='Product')
                         
-                        if product_name and product_description and product_price:
-                            product = Vertex(id=id_num, properties={'name': product_name, 
-                                                                    'description': product_description, 
-                                                                    'price': product_price})
-                            product_vertices.append(product)
-                            id_num += 1
+                        graph.add_vertex(product)
+                        id_num += 1
+                        edge_v_product = Edge(id=id_num, from_vertex=v, to_vertex=product, properties={}, label='OFFERS')
+                        id_num += 1
+                        graph.add_edge(edge_v_product)
                             
                 print("Some fish were caught!")
             
@@ -117,8 +125,6 @@ class RappiWebScraper:
                 
         else:
             print("Wholesalers list empty!")
-            
-        return product_vertices
 
             
             

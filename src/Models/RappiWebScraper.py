@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-from Graph import *
+from Models.Graph import *
 
 class RappiWebScraper:
 

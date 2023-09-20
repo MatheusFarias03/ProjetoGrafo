@@ -1,4 +1,7 @@
 class Vertex:
+    """
+    Vertices symbolize entities or data points.
+    """
 
     def __init__(self, id:int, properties:dict, label:str='_ag_label_vertex'):
         self.id = id
@@ -19,6 +22,9 @@ class Vertex:
 
 
 class Edge:
+    """
+    Edges connect vertices and represent the relationship between them.
+    """
 
     def __init__(self, id:int, from_vertex:Vertex, to_vertex:Vertex, properties:dict, label:str='_ag_label_edge'):
         self.id = id

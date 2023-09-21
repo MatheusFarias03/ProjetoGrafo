@@ -62,7 +62,7 @@ class Graph:
         self.edges = []
         self.adj_matrix = []
 
-    def add_vertex(self, vertex:Vertex) -> bool:
+    def add_vertex(self, vertex:Vertex):
         """
         Adds a vertex to the graph.
 
@@ -78,9 +78,13 @@ class Graph:
         
         # Check if the vertex already exists.
         for v in self.vertices:
+            
             if v.id == vertex.id:
                 print(f'\nERROR: Vertex with id {vertex.id} already exists in the graph.\n')
-                return False
+                return [-1] # If it does, return an array with -1 to represent that the vertex already exists.
+            
+            if v.properties['name'] == vertex.properties['name'] and v.label == 'Product':
+                return [0, v] # If there is one product that already exists, return it as the second element.
 
         self.vertices.append(vertex)
         self.num_vertices += 1
@@ -99,7 +103,7 @@ class Graph:
             for j in range(0, self.num_vertices):
                 self.adj_matrix[-1].append(0)
 
-        return True
+        return [0] # This means that the vertex was added.
     
     
     def add_edge(self, edge:Edge) -> bool:

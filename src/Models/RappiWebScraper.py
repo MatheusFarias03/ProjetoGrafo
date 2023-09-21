@@ -102,6 +102,7 @@ class RappiWebScraper:
                     
                     # Loop through the filtered divs and retrieve each property.
                     for div in filtered_elements:
+                        id_num += 1
                         product_name = div.find('h3', {'data-qa': 'product-name'}).get_text()
                         product_price = div.find('span', {'data-qa': 'product-price'}).get_text()
                         product_pum = div.find('span', {'data-qa': 'product-pum'}).get_text()
@@ -109,12 +110,19 @@ class RappiWebScraper:
                     
                         product = Vertex(id=id_num, properties={'name': product_name, 
                                                                 'description': product_description, 
-                                                                'price': product_price},
+                                                                'product-pum': product_pum},
                                          label='Product')
                         
-                        graph.add_vertex(product)
-                        id_num += 1
-                        edge_v_product = Edge(id=id_num, from_vertex=v, to_vertex=product, properties={}, label='OFFERS')
+                        result_list = graph.add_vertex(product)
+                        if len(result_list) == 2:
+                            to_product = result_list[1]
+                            edge_v_product = Edge(id=id_num, from_vertex=v, to_vertex=to_product, properties={'price': product_price}, label='OFFERS')
+                        
+                        elif len(result_list) == 1 and result_list[0] == 0:
+                            id_num += 1
+                            edge_v_product = Edge(id=id_num, from_vertex=v, to_vertex=product, properties={'price': product_price}, label='OFFERS')
+                        
+                        
                         id_num += 1
                         graph.add_edge(edge_v_product)
                             

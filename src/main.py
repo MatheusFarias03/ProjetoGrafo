@@ -4,7 +4,7 @@ from Database.Database import *
 import tests
 
 def main():
-    
+ 
     db = Database()
     db.insert_all_from_file()
     

@@ -1,993 +1,246 @@
 v;1;{'name': 'Barateiro', 'link': 'https://www.rappi.com.br/lojas/900657893-pao-de-azucar-barateiro-nc'};Wholesaler
 v;2;{'name': 'ASSAI ATACADISTA', 'link': 'https://www.rappi.com.br/lojas/900637187-assaiatacadista-nc'};Wholesaler
-v;3;{'name': 'Atacadão', 'link': 'https://www.rappi.com.br/lojas/900648056-atacadao'};Wholesaler
-v;4;{'name': "Sam's Club", 'link': 'https://www.rappi.com.br/lojas/900198813-sams-club'};Wholesaler
-v;5;{'name': 'Damm Filé de Salmão Defumado Congelado em Fatias', 'description': '1 X 80 g', 'price': 'R$ 28,69'};Product
-v;7;{'name': 'Damm Carpaccio de Salmão', 'description': '1 X 100 g', 'price': 'R$ 37,69'};Product
-v;9;{'name': 'Filé de Truta Refrigerado', 'description': 'Aprox. 450g/ud', 'price': 'R$ 49,95/u'};Product
-v;11;{'name': 'Fider Filé de Tilápia Resfriado', 'description': '1 X 500 g', 'price': 'R$ 32,69'};Product
-v;13;{'name': 'Frescatto Kani Kama Congelado', 'description': '1 X 200 g', 'price': 'R$ 9,69'};Product
-v;15;{'name': 'Kenko Folhas De Alga Marinha Desidratada', 'description': '1 X 27 g', 'price': 'R$ 29,79'};Product
-v;17;{'name': 'Frescatto Linguado em Filé Congelado', 'description': '1 X 500 g', 'price': 'R$ 51,99'};Product
-v;19;{'name': 'Filé Truta Ao Forno', 'description': '1 X 150 g', 'price': 'R$ 23,69'};Product
-v;21;{'name': 'Salmao Medalhao Congelado Damm 480 G', 'description': '1 X 480 g', 'price': 'R$ 76,99'};Product
-v;23;{'name': 'Qualitá Camarão Descascado Cozido e Sem Cauda Congelado', 'description': '1 X 200 g', 'price': 'R$ 29,90'};Product
-v;25;{'name': 'Brazilian Fish Pedaços de Filé de Tilápia', 'description': '1 X 300 g', 'price': 'R$ 19,99'};Product
-v;27;{'name': 'Riberalves Postas de Bacalhau Dessalgado', 'description': '1 X 800 g', 'price': 'R$ 79,90'};Product
-v;29;{'name': 'Cam Cz Coz Evisc 2640 Fisgo', 'description': '1 X 350 g', 'price': 'R$ 71,90'};Product
-v;31;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'price': 'R$ 11,29'};Product
-v;33;{'name': 'Coqueiro Patê de Atum Light', 'description': '1 X 170 g', 'price': 'R$ 9,99'};Product
-v;35;{'name': 'Octopus Polvo Resfriado', 'description': 'A partir de 200g', 'price': 'R$ 114,99/kg'};Product
-v;37;{'name': 'Fisgo Camarão Cinza Cozido Eviscerado', 'description': '1 X 350 g', 'price': 'R$ 53,99'};Product
-v;39;{'name': 'Camarão Médio Qualitá ', 'description': '1 X 400 g', 'price': 'R$ 49,90'};Product
-v;41;{'name': 'Damm Salmão Congelado em Filé com Pele', 'description': '1 X 800 g', 'price': 'R$ 110,99'};Product
-v;43;{'name': 'Coqueiro Atum em Pedaços ', 'description': '1 X 170 g', 'price': 'R$ 13,29'};Product
-v;45;{'name': 'Tours Atum Pedaços com Óleo Comestível e Salmoura', 'description': '1 X 180 g', 'price': 'R$ 19,29'};Product
-v;47;{'name': 'Seara Empanado De Soja Em Iscas De Peixe', 'description': '1 X 300 g', 'price': 'R$ 19,49'};Product
-v;49;{'name': 'Qualitá Salmão em Pedaços', 'description': '1 X 500 g', 'price': 'R$ 60,99'};Product
-v;51;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'price': 'R$ 69,90'};Product
-v;53;{'name': 'Riberalves Bacalhau Lombo Dessalgado Morhua', 'description': '1 X 1 Kg', 'price': 'R$ 159,90'};Product
-v;55;{'name': 'Edomae Yakinori Alga Marinha Kosher', 'description': '1 X 25 g', 'price': 'R$ 43,49'};Product
-v;57;{'name': 'Noronha Filé Merluza Argentina Congelado', 'description': '1 X 800 g', 'price': 'R$ 39,99'};Product
-v;59;{'name': 'Incrível! Filé de Peixe Empanado Vegano ', 'description': '1 X 220 g', 'price': 'R$ 17,49'};Product
-v;61;{'name': 'Riberalves Lombo De Bacalhau Dessalgado Congelado', 'description': '1 X 1 Kg', 'price': 'R$ 169,90'};Product
-v;63;{'name': 'Fisgo Camarão Cinza Descascado Eviscerado Congelado', 'description': '1 X 350 g', 'price': 'R$ 58,99'};Product
-v;65;{'name': 'Korin Filés de Truta Congelados', 'description': '1 X 500 g', 'price': 'R$ 64,90'};Product
-v;67;{'name': 'Hossomaki De Atum', 'description': '1 X 140 g', 'price': 'R$ 13,99'};Product
-v;69;{'name': 'Gomes da Costa Filé de Sardinha em Óleo com Limão', 'description': '1 X 125 g', 'price': 'R$ 12,79'};Product
-v;71;{'name': 'Iogurte Líquido Zero Lactose Corpus Amora E Maracujá 800G', 'description': '1 X 800 g', 'price': 'R$ 16,49'};Product
-v;73;{'name': 'Qualitá Lombo Bacalhau Dessalgado Porto', 'description': '1 X 800 g', 'price': 'R$ 109,90'};Product
-v;75;{'name': 'Riberalves Polaca Do Alasca Dessalgada Desfiada', 'description': '1 X 500 g', 'price': 'R$ 30,69'};Product
-v;77;{'name': 'Riberalves Bacalhau da Casa', 'description': '1 X 300 g', 'price': 'R$ 29,99'};Product
-v;79;{'name': 'Páprica Defumada Br Spices', 'description': '1 X 45 g', 'price': 'R$ 22,49'};Product
-v;81;{'name': 'Taequi Tambaqui Posta Tilápia', 'description': '1 X 800 g', 'price': 'R$ 41,69'};Product
-v;83;{'name': 'Ramirez Bacalhau Português Azeite E Alho', 'description': '1 X 120 g', 'price': 'R$ 43,29'};Product
-v;85;{'name': 'Korin Filé Porcionados de Truta Rosa com Pele', 'description': '1 X 350 g', 'price': 'R$ 69,90'};Product
-v;87;{'name': 'Ramirez Atum Em Posta', 'description': '1 X 120 g', 'price': 'R$ 17,49'};Product
-v;89;{'name': 'Ramirez Filé de Sardinha em Azeite com Azeitonas', 'description': '1 X 70 g', 'price': 'R$ 19,29'};Product
-v;91;{'name': 'Niguiri De Salmao', 'description': '1 X 170 g', 'price': 'R$ 23,99'};Product
-v;93;{'name': 'Bacala Bacalhau Porto em Pedacos', 'description': '1 X 500 g', 'price': 'R$ 39,90'};Product
-v;95;{'name': 'Mega Combinado De Salmao', 'description': '1 X 440 g', 'price': 'R$ 79,90'};Product
-v;97;{'name': 'Bacalanor Peixe Salgado Polaca Pedaço', 'description': '1 X 800 g', 'price': 'R$ 39,90'};Product
-v;99;{'name': 'Fisgo Camaro sem cabea Cozido 3044', 'description': '1 X 350 g', 'price': 'R$ 54,90'};Product
-v;101;{'name': 'Lombo de Bacalhau Dessalgado Congelado', 'description': '1 X 1000 g', 'price': 'R$ 139,90'};Product
-v;103;{'name': 'Bom Peixe Vieira Peruana Congelada', 'description': '1 X 200 g', 'price': 'R$ 75,99'};Product
-v;105;{'name': 'Petalo Nugget de Panga', 'description': '1 X 400 g', 'price': 'R$ 24,69'};Product
-v;107;{'name': 'Ceviche Oriental Peixe Branco', 'description': '1 X 150 g', 'price': 'R$ 16,99'};Product
-v;109;{'name': 'Qualitá Filé de Tilápia Congelado', 'description': '1 X 500.0 g', 'price': 'R$ 31,43'};Product
-v;111;{'name': 'Damm Kani Kama à Vácuo', 'description': '1 X 250 g', 'price': 'R$ 19,90'};Product
-v;113;{'name': 'Qualitá Camarão Pequeno Descascado Cozido Congelado', 'description': '1 X 400 g', 'price': 'R$ 64,90'};Product
-v;115;{'name': 'Saint Peters Filé de Tilapia sem Espinha', 'description': '1 X 250 g', 'price': 'R$ 23,69'};Product
-v;117;{'name': 'Korin Filé de Tilápia Congelado', 'description': '1 X 450 g', 'price': 'R$ 49,69'};Product
-v;119;{'name': 'Damm Filé de Salmão Defumado Congelado em Fatias', 'description': '1 X 80 g', 'price': 'R$ 28,69'};Product
-v;121;{'name': 'Damm Carpaccio de Salmão', 'description': '1 X 100 g', 'price': 'R$ 37,69'};Product
-v;123;{'name': 'Filé de Truta Refrigerado', 'description': 'Aprox. 450g/ud', 'price': 'R$ 49,95/u'};Product
-v;125;{'name': 'Fider Filé de Tilápia Resfriado', 'description': '1 X 500 g', 'price': 'R$ 32,69'};Product
-v;127;{'name': 'Frescatto Kani Kama Congelado', 'description': '1 X 200 g', 'price': 'R$ 9,69'};Product
-v;129;{'name': 'Kenko Folhas De Alga Marinha Desidratada', 'description': '1 X 27 g', 'price': 'R$ 29,79'};Product
-v;131;{'name': 'Frescatto Linguado em Filé Congelado', 'description': '1 X 500 g', 'price': 'R$ 51,99'};Product
-v;133;{'name': 'Filé Truta Ao Forno', 'description': '1 X 150 g', 'price': 'R$ 23,69'};Product
-v;135;{'name': 'Salmao Medalhao Congelado Damm 480 G', 'description': '1 X 480 g', 'price': 'R$ 76,99'};Product
-v;137;{'name': 'Qualitá Camarão Descascado Cozido e Sem Cauda Congelado', 'description': '1 X 200 g', 'price': 'R$ 29,90'};Product
-v;139;{'name': 'Brazilian Fish Pedaços de Filé de Tilápia', 'description': '1 X 300 g', 'price': 'R$ 19,99'};Product
-v;141;{'name': 'Riberalves Postas de Bacalhau Dessalgado', 'description': '1 X 800 g', 'price': 'R$ 79,90'};Product
-v;143;{'name': 'Cam Cz Coz Evisc 2640 Fisgo', 'description': '1 X 350 g', 'price': 'R$ 71,90'};Product
-v;145;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'price': 'R$ 11,29'};Product
-v;147;{'name': 'Coqueiro Patê de Atum Light', 'description': '1 X 170 g', 'price': 'R$ 9,99'};Product
-v;149;{'name': 'Octopus Polvo Resfriado', 'description': 'A partir de 200g', 'price': 'R$ 114,99/kg'};Product
-v;151;{'name': 'Fisgo Camarão Cinza Cozido Eviscerado', 'description': '1 X 350 g', 'price': 'R$ 53,99'};Product
-v;153;{'name': 'Camarão Médio Qualitá ', 'description': '1 X 400 g', 'price': 'R$ 49,90'};Product
-v;155;{'name': 'Damm Salmão Congelado em Filé com Pele', 'description': '1 X 800 g', 'price': 'R$ 110,99'};Product
-v;157;{'name': 'Coqueiro Atum em Pedaços ', 'description': '1 X 170 g', 'price': 'R$ 13,29'};Product
-v;159;{'name': 'Tours Atum Pedaços com Óleo Comestível e Salmoura', 'description': '1 X 180 g', 'price': 'R$ 19,29'};Product
-v;161;{'name': 'Seara Empanado De Soja Em Iscas De Peixe', 'description': '1 X 300 g', 'price': 'R$ 19,49'};Product
-v;163;{'name': 'Qualitá Salmão em Pedaços', 'description': '1 X 500 g', 'price': 'R$ 60,99'};Product
-v;165;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'price': 'R$ 69,90'};Product
-v;167;{'name': 'Riberalves Bacalhau Lombo Dessalgado Morhua', 'description': '1 X 1 Kg', 'price': 'R$ 159,90'};Product
-v;169;{'name': 'Edomae Yakinori Alga Marinha Kosher', 'description': '1 X 25 g', 'price': 'R$ 43,49'};Product
-v;171;{'name': 'Noronha Filé Merluza Argentina Congelado', 'description': '1 X 800 g', 'price': 'R$ 39,99'};Product
-v;173;{'name': 'Incrível! Filé de Peixe Empanado Vegano ', 'description': '1 X 220 g', 'price': 'R$ 17,49'};Product
-v;175;{'name': 'Riberalves Lombo De Bacalhau Dessalgado Congelado', 'description': '1 X 1 Kg', 'price': 'R$ 169,90'};Product
-v;177;{'name': 'Fisgo Camarão Cinza Descascado Eviscerado Congelado', 'description': '1 X 350 g', 'price': 'R$ 58,99'};Product
-v;179;{'name': 'Korin Filés de Truta Congelados', 'description': '1 X 500 g', 'price': 'R$ 64,90'};Product
-v;181;{'name': 'Hossomaki De Atum', 'description': '1 X 140 g', 'price': 'R$ 13,99'};Product
-v;183;{'name': 'Gomes da Costa Filé de Sardinha em Óleo com Limão', 'description': '1 X 125 g', 'price': 'R$ 12,79'};Product
-v;185;{'name': 'Iogurte Líquido Zero Lactose Corpus Amora E Maracujá 800G', 'description': '1 X 800 g', 'price': 'R$ 16,49'};Product
-v;187;{'name': 'Qualitá Lombo Bacalhau Dessalgado Porto', 'description': '1 X 800 g', 'price': 'R$ 109,90'};Product
-v;189;{'name': 'Riberalves Polaca Do Alasca Dessalgada Desfiada', 'description': '1 X 500 g', 'price': 'R$ 30,69'};Product
-v;191;{'name': 'Riberalves Bacalhau da Casa', 'description': '1 X 300 g', 'price': 'R$ 29,99'};Product
-v;193;{'name': 'Páprica Defumada Br Spices', 'description': '1 X 45 g', 'price': 'R$ 22,49'};Product
-v;195;{'name': 'Taequi Tambaqui Posta Tilápia', 'description': '1 X 800 g', 'price': 'R$ 41,69'};Product
-v;197;{'name': 'Ramirez Bacalhau Português Azeite E Alho', 'description': '1 X 120 g', 'price': 'R$ 43,29'};Product
-v;199;{'name': 'Korin Filé Porcionados de Truta Rosa com Pele', 'description': '1 X 350 g', 'price': 'R$ 69,90'};Product
-v;201;{'name': 'Ramirez Atum Em Posta', 'description': '1 X 120 g', 'price': 'R$ 17,49'};Product
-v;203;{'name': 'Ramirez Filé de Sardinha em Azeite com Azeitonas', 'description': '1 X 70 g', 'price': 'R$ 19,29'};Product
-v;205;{'name': 'Niguiri De Salmao', 'description': '1 X 170 g', 'price': 'R$ 23,99'};Product
-v;207;{'name': 'Bacala Bacalhau Porto em Pedacos', 'description': '1 X 500 g', 'price': 'R$ 39,90'};Product
-v;209;{'name': 'Mega Combinado De Salmao', 'description': '1 X 440 g', 'price': 'R$ 79,90'};Product
-v;211;{'name': 'Bacalanor Peixe Salgado Polaca Pedaço', 'description': '1 X 800 g', 'price': 'R$ 39,90'};Product
-v;213;{'name': 'Fisgo Camaro sem cabea Cozido 3044', 'description': '1 X 350 g', 'price': 'R$ 54,90'};Product
-v;215;{'name': 'Lombo de Bacalhau Dessalgado Congelado', 'description': '1 X 1000 g', 'price': 'R$ 139,90'};Product
-v;217;{'name': 'Bom Peixe Vieira Peruana Congelada', 'description': '1 X 200 g', 'price': 'R$ 75,99'};Product
-v;219;{'name': 'Petalo Nugget de Panga', 'description': '1 X 400 g', 'price': 'R$ 24,69'};Product
-v;221;{'name': 'Ceviche Oriental Peixe Branco', 'description': '1 X 150 g', 'price': 'R$ 16,99'};Product
-v;223;{'name': 'Qualitá Filé de Tilápia Congelado', 'description': '1 X 500.0 g', 'price': 'R$ 31,43'};Product
-v;225;{'name': 'Damm Kani Kama à Vácuo', 'description': '1 X 250 g', 'price': 'R$ 19,90'};Product
-v;227;{'name': 'Qualitá Camarão Pequeno Descascado Cozido Congelado', 'description': '1 X 400 g', 'price': 'R$ 64,90'};Product
-v;229;{'name': 'Copacol Filé de Peixe Tilápia Congelado', 'description': '1 X 800 g', 'price': 'R$ 42,50'};Product
-v;231;{'name': 'Copacol Posta de Tilápia Congelada', 'description': '1 X 800 g', 'price': 'R$ 19,98'};Product
-v;233;{'name': 'O Pescador Peixe Pescada Espalmada ', 'description': '1 X 800 g', 'price': 'R$ 14,90'};Product
-v;235;{'name': 'Copacol Stick de Tilápia Empanado', 'description': '1 X 2 Kg', 'price': 'R$ 33,50'};Product
-v;237;{'name': 'C Vale Posta Tilapia Iqf', 'description': '1 X 800 g', 'price': 'R$ 20,50'};Product
-v;239;{'name': 'Bom Peixe Peixe Porco Congelada', 'description': '1 X 500 g', 'price': 'R$ 12,50'};Product
-v;241;{'name': 'Bacalanor Filé De Polaca Congelado', 'description': '1 X 500 g', 'price': 'R$ 15,50'};Product
-v;243;{'name': 'Aurora Posta de Tilápia ', 'description': '1 X 1 Kg', 'price': 'R$ 22,70'};Product
-v;245;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'price': 'R$ 8,20'};Product
-v;247;{'name': 'O Pescador Filé de Congelado Merluza ', 'description': '1 X 800 g', 'price': 'R$ 27,50'};Product
-v;249;{'name': 'Costa Sul Filé de Peixe Pescada Congelado', 'description': '1 X 500 g', 'price': 'R$ 20,50'};Product
-v;251;{'name': 'Coqueiro Atum Ralado em Óleo', 'description': '1 X 170 g', 'price': 'R$ 7,99'};Product
-v;253;{'name': 'C-vale Filé de Tilápia', 'description': '1 X 800 g', 'price': 'R$ 39,00'};Product
-v;255;{'name': 'Copacol Costelinha de Tilapia Congelada', 'description': 'Aprox. 600g/ud', 'price': 'R$ 11,34/u'};Product
-v;257;{'name': 'Bom Peixe Filé Merluza Peixe Congelado', 'description': '1 X 500 g', 'price': 'R$ 33,00'};Product
-v;259;{'name': 'Bom Peixe Sardinha Evis', 'description': '1 X 800 g', 'price': 'R$ 11,30'};Product
-v;261;{'name': 'Pescador Peixe Manjubinha', 'description': '1 X 1 Und', 'price': 'R$ 12,79'};Product
-v;263;{'name': 'Incrível! Filé de Peixe Empanado Vegano ', 'description': '1 X 220 g', 'price': 'R$ 12,80'};Product
-v;265;{'name': 'Yaki Nori Yari Algas Marinhas 10 Folhas', 'description': '1 X 25 g', 'price': 'R$ 18,40'};Product
-v;267;{'name': 'Gomes Da Costa Atum Ralado Em Óleo Pouch', 'description': '1 X 500 g', 'price': 'R$ 21,90'};Product
-v;269;{'name': 'Pescador Filé Pescada', 'description': '1 X 1 Und', 'price': 'R$ 26,50'};Product
-v;271;{'name': 'Gomes Da Costa Atum em Pedaços', 'description': '1 X 500 g', 'price': 'R$ 30,50'};Product
-v;273;{'name': 'Maris Camarão Descascado Cozido', 'description': '1 X 400 g', 'price': 'R$ 50,50'};Product
-v;275;{'name': 'Aurora Filé de Tilápia Congelado', 'description': '1 X 800 g', 'price': 'R$ 34,90'};Product
-v;277;{'name': 'Bom Peixe Posta Cação sem Pele Congelado', 'description': '1 X 500 g', 'price': 'R$ 11,90'};Product
-v;279;{'name': 'Copacol Filé de Tilápia Empanado', 'description': '1 X 400 g', 'price': 'R$ 27,50'};Product
-v;281;{'name': 'Costa Sul Filé de Salmão Congelado', 'description': '1 X 500 g', 'price': 'R$ 58,00'};Product
-v;283;{'name': 'Costa Sul Peixe Porco Evisc Congelado', 'description': '1 X 800 g', 'price': 'R$ 9,90'};Product
-v;285;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'price': 'R$ 49,98'};Product
-v;287;{'name': 'Brasmar Bacalhau Dessalgado Congelado', 'description': '1 X 450 g', 'price': 'R$ 32,00'};Product
-v;289;{'name': 'Pescador Peixe Sardinha Espalmada', 'description': '1 X 1 Und', 'price': 'R$ 10,60'};Product
-v;291;{'name': 'Cellier Atum Pedaços em Óleo Comestível com Caldo Vegetal', 'description': '1 X 500 g', 'price': 'R$ 25,90'};Product
-v;293;{'name': 'Brasmar Posta Saithe', 'description': '1 X 800 g', 'price': 'R$ 29,00'};Product
-v;295;{'name': 'Brasmar Lombo De Saithe Desossado Congelado', 'description': '1 X 1 Kg', 'price': 'R$ 72,90'};Product
-v;297;{'name': 'Aurora Filé de Tilápia com Manteiga e Limão Bem Leve', 'description': '1 X 310 g', 'price': 'R$ 27,50'};Product
-v;299;{'name': 'Brasmar Lombo Bacalhau Dessalgado ', 'description': '1 X 1 Kg', 'price': 'R$ 104,00'};Product
-v;301;{'name': 'Oceani Posta de Cação sem Pele Congelado', 'description': '1 X 800 g', 'price': 'R$ 20,90'};Product
-v;303;{'name': 'Arapongas Peixe Congelado Sardinha Laje Eviscerada', 'description': '1 X 800 g', 'price': 'R$ 9,90'};Product
-v;305;{'name': 'Filé de Cascudinho do Mar Congelado sem Pele Costa Sul Pacote 500g', 'description': '1 X 500 g', 'price': 'R$ 17,30'};Product
-v;307;{'name': 'Saint Peters Filé de Tilapia sem Espinha', 'description': '1 X 250 g', 'price': 'R$ 23,69'};Product
-v;309;{'name': 'Korin Filé de Tilápia Congelado', 'description': '1 X 450 g', 'price': 'R$ 49,69'};Product
-v;311;{'name': 'Damm Filé de Salmão Defumado Congelado em Fatias', 'description': '1 X 80 g', 'price': 'R$ 28,69'};Product
-v;313;{'name': 'Damm Carpaccio de Salmão', 'description': '1 X 100 g', 'price': 'R$ 37,69'};Product
-v;315;{'name': 'Filé de Truta Refrigerado', 'description': 'Aprox. 450g/ud', 'price': 'R$ 49,95/u'};Product
-v;317;{'name': 'Fider Filé de Tilápia Resfriado', 'description': '1 X 500 g', 'price': 'R$ 32,69'};Product
-v;319;{'name': 'Frescatto Kani Kama Congelado', 'description': '1 X 200 g', 'price': 'R$ 9,69'};Product
-v;321;{'name': 'Kenko Folhas De Alga Marinha Desidratada', 'description': '1 X 27 g', 'price': 'R$ 29,79'};Product
-v;323;{'name': 'Frescatto Linguado em Filé Congelado', 'description': '1 X 500 g', 'price': 'R$ 51,99'};Product
-v;325;{'name': 'Filé Truta Ao Forno', 'description': '1 X 150 g', 'price': 'R$ 23,69'};Product
-v;327;{'name': 'Salmao Medalhao Congelado Damm 480 G', 'description': '1 X 480 g', 'price': 'R$ 76,99'};Product
-v;329;{'name': 'Qualitá Camarão Descascado Cozido e Sem Cauda Congelado', 'description': '1 X 200 g', 'price': 'R$ 29,90'};Product
-v;331;{'name': 'Brazilian Fish Pedaços de Filé de Tilápia', 'description': '1 X 300 g', 'price': 'R$ 19,99'};Product
-v;333;{'name': 'Riberalves Postas de Bacalhau Dessalgado', 'description': '1 X 800 g', 'price': 'R$ 79,90'};Product
-v;335;{'name': 'Cam Cz Coz Evisc 2640 Fisgo', 'description': '1 X 350 g', 'price': 'R$ 71,90'};Product
-v;337;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'price': 'R$ 11,29'};Product
-v;339;{'name': 'Coqueiro Patê de Atum Light', 'description': '1 X 170 g', 'price': 'R$ 9,99'};Product
-v;341;{'name': 'Octopus Polvo Resfriado', 'description': 'A partir de 200g', 'price': 'R$ 114,99/kg'};Product
-v;343;{'name': 'Fisgo Camarão Cinza Cozido Eviscerado', 'description': '1 X 350 g', 'price': 'R$ 53,99'};Product
-v;345;{'name': 'Camarão Médio Qualitá ', 'description': '1 X 400 g', 'price': 'R$ 49,90'};Product
-v;347;{'name': 'Damm Salmão Congelado em Filé com Pele', 'description': '1 X 800 g', 'price': 'R$ 110,99'};Product
-v;349;{'name': 'Coqueiro Atum em Pedaços ', 'description': '1 X 170 g', 'price': 'R$ 13,29'};Product
-v;351;{'name': 'Tours Atum Pedaços com Óleo Comestível e Salmoura', 'description': '1 X 180 g', 'price': 'R$ 19,29'};Product
-v;353;{'name': 'Seara Empanado De Soja Em Iscas De Peixe', 'description': '1 X 300 g', 'price': 'R$ 19,49'};Product
-v;355;{'name': 'Qualitá Salmão em Pedaços', 'description': '1 X 500 g', 'price': 'R$ 60,99'};Product
-v;357;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'price': 'R$ 69,90'};Product
-v;359;{'name': 'Riberalves Bacalhau Lombo Dessalgado Morhua', 'description': '1 X 1 Kg', 'price': 'R$ 159,90'};Product
-v;361;{'name': 'Edomae Yakinori Alga Marinha Kosher', 'description': '1 X 25 g', 'price': 'R$ 43,49'};Product
-v;363;{'name': 'Noronha Filé Merluza Argentina Congelado', 'description': '1 X 800 g', 'price': 'R$ 39,99'};Product
-v;365;{'name': 'Incrível! Filé de Peixe Empanado Vegano ', 'description': '1 X 220 g', 'price': 'R$ 17,49'};Product
-v;367;{'name': 'Riberalves Lombo De Bacalhau Dessalgado Congelado', 'description': '1 X 1 Kg', 'price': 'R$ 169,90'};Product
-v;369;{'name': 'Fisgo Camarão Cinza Descascado Eviscerado Congelado', 'description': '1 X 350 g', 'price': 'R$ 58,99'};Product
-v;371;{'name': 'Korin Filés de Truta Congelados', 'description': '1 X 500 g', 'price': 'R$ 64,90'};Product
-v;373;{'name': 'Hossomaki De Atum', 'description': '1 X 140 g', 'price': 'R$ 13,99'};Product
-v;375;{'name': 'Gomes da Costa Filé de Sardinha em Óleo com Limão', 'description': '1 X 125 g', 'price': 'R$ 12,79'};Product
-v;377;{'name': 'Iogurte Líquido Zero Lactose Corpus Amora E Maracujá 800G', 'description': '1 X 800 g', 'price': 'R$ 16,49'};Product
-v;379;{'name': 'Qualitá Lombo Bacalhau Dessalgado Porto', 'description': '1 X 800 g', 'price': 'R$ 109,90'};Product
-v;381;{'name': 'Riberalves Polaca Do Alasca Dessalgada Desfiada', 'description': '1 X 500 g', 'price': 'R$ 30,69'};Product
-v;383;{'name': 'Riberalves Bacalhau da Casa', 'description': '1 X 300 g', 'price': 'R$ 29,99'};Product
-v;385;{'name': 'Páprica Defumada Br Spices', 'description': '1 X 45 g', 'price': 'R$ 22,49'};Product
-v;387;{'name': 'Taequi Tambaqui Posta Tilápia', 'description': '1 X 800 g', 'price': 'R$ 41,69'};Product
-v;389;{'name': 'Ramirez Bacalhau Português Azeite E Alho', 'description': '1 X 120 g', 'price': 'R$ 43,29'};Product
-v;391;{'name': 'Korin Filé Porcionados de Truta Rosa com Pele', 'description': '1 X 350 g', 'price': 'R$ 69,90'};Product
-v;393;{'name': 'Ramirez Atum Em Posta', 'description': '1 X 120 g', 'price': 'R$ 17,49'};Product
-v;395;{'name': 'Ramirez Filé de Sardinha em Azeite com Azeitonas', 'description': '1 X 70 g', 'price': 'R$ 19,29'};Product
-v;397;{'name': 'Niguiri De Salmao', 'description': '1 X 170 g', 'price': 'R$ 23,99'};Product
-v;399;{'name': 'Bacala Bacalhau Porto em Pedacos', 'description': '1 X 500 g', 'price': 'R$ 39,90'};Product
-v;401;{'name': 'Mega Combinado De Salmao', 'description': '1 X 440 g', 'price': 'R$ 79,90'};Product
-v;403;{'name': 'Bacalanor Peixe Salgado Polaca Pedaço', 'description': '1 X 800 g', 'price': 'R$ 39,90'};Product
-v;405;{'name': 'Fisgo Camaro sem cabea Cozido 3044', 'description': '1 X 350 g', 'price': 'R$ 54,90'};Product
-v;407;{'name': 'Lombo de Bacalhau Dessalgado Congelado', 'description': '1 X 1000 g', 'price': 'R$ 139,90'};Product
-v;409;{'name': 'Bom Peixe Vieira Peruana Congelada', 'description': '1 X 200 g', 'price': 'R$ 75,99'};Product
-v;411;{'name': 'Petalo Nugget de Panga', 'description': '1 X 400 g', 'price': 'R$ 24,69'};Product
-v;413;{'name': 'Ceviche Oriental Peixe Branco', 'description': '1 X 150 g', 'price': 'R$ 16,99'};Product
-v;415;{'name': 'Qualitá Filé de Tilápia Congelado', 'description': '1 X 500.0 g', 'price': 'R$ 31,43'};Product
-v;417;{'name': 'Damm Kani Kama à Vácuo', 'description': '1 X 250 g', 'price': 'R$ 19,90'};Product
-v;419;{'name': 'Qualitá Camarão Pequeno Descascado Cozido Congelado', 'description': '1 X 400 g', 'price': 'R$ 64,90'};Product
-v;421;{'name': 'Copacol Filé de Peixe Tilápia Congelado', 'description': '1 X 800 g', 'price': 'R$ 42,50'};Product
-v;423;{'name': 'Copacol Posta de Tilápia Congelada', 'description': '1 X 800 g', 'price': 'R$ 19,98'};Product
-v;425;{'name': 'O Pescador Peixe Pescada Espalmada ', 'description': '1 X 800 g', 'price': 'R$ 14,90'};Product
-v;427;{'name': 'Copacol Stick de Tilápia Empanado', 'description': '1 X 2 Kg', 'price': 'R$ 33,50'};Product
-v;429;{'name': 'C Vale Posta Tilapia Iqf', 'description': '1 X 800 g', 'price': 'R$ 20,50'};Product
-v;431;{'name': 'Bom Peixe Peixe Porco Congelada', 'description': '1 X 500 g', 'price': 'R$ 12,50'};Product
-v;433;{'name': 'Bacalanor Filé De Polaca Congelado', 'description': '1 X 500 g', 'price': 'R$ 15,50'};Product
-v;435;{'name': 'Aurora Posta de Tilápia ', 'description': '1 X 1 Kg', 'price': 'R$ 22,70'};Product
-v;437;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'price': 'R$ 8,20'};Product
-v;439;{'name': 'O Pescador Filé de Congelado Merluza ', 'description': '1 X 800 g', 'price': 'R$ 27,50'};Product
-v;441;{'name': 'Costa Sul Filé de Peixe Pescada Congelado', 'description': '1 X 500 g', 'price': 'R$ 20,50'};Product
-v;443;{'name': 'Coqueiro Atum Ralado em Óleo', 'description': '1 X 170 g', 'price': 'R$ 7,99'};Product
-v;445;{'name': 'C-vale Filé de Tilápia', 'description': '1 X 800 g', 'price': 'R$ 39,00'};Product
-v;447;{'name': 'Copacol Costelinha de Tilapia Congelada', 'description': 'Aprox. 600g/ud', 'price': 'R$ 11,34/u'};Product
-v;449;{'name': 'Bom Peixe Filé Merluza Peixe Congelado', 'description': '1 X 500 g', 'price': 'R$ 33,00'};Product
-v;451;{'name': 'Bom Peixe Sardinha Evis', 'description': '1 X 800 g', 'price': 'R$ 11,30'};Product
-v;453;{'name': 'Pescador Peixe Manjubinha', 'description': '1 X 1 Und', 'price': 'R$ 12,79'};Product
-v;455;{'name': 'Incrível! Filé de Peixe Empanado Vegano ', 'description': '1 X 220 g', 'price': 'R$ 12,80'};Product
-v;457;{'name': 'Yaki Nori Yari Algas Marinhas 10 Folhas', 'description': '1 X 25 g', 'price': 'R$ 18,40'};Product
-v;459;{'name': 'Gomes Da Costa Atum Ralado Em Óleo Pouch', 'description': '1 X 500 g', 'price': 'R$ 21,90'};Product
-v;461;{'name': 'Pescador Filé Pescada', 'description': '1 X 1 Und', 'price': 'R$ 26,50'};Product
-v;463;{'name': 'Gomes Da Costa Atum em Pedaços', 'description': '1 X 500 g', 'price': 'R$ 30,50'};Product
-v;465;{'name': 'Maris Camarão Descascado Cozido', 'description': '1 X 400 g', 'price': 'R$ 50,50'};Product
-v;467;{'name': 'Aurora Filé de Tilápia Congelado', 'description': '1 X 800 g', 'price': 'R$ 34,90'};Product
-v;469;{'name': 'Bom Peixe Posta Cação sem Pele Congelado', 'description': '1 X 500 g', 'price': 'R$ 11,90'};Product
-v;471;{'name': 'Copacol Filé de Tilápia Empanado', 'description': '1 X 400 g', 'price': 'R$ 27,50'};Product
-v;473;{'name': 'Costa Sul Filé de Salmão Congelado', 'description': '1 X 500 g', 'price': 'R$ 58,00'};Product
-v;475;{'name': 'Costa Sul Peixe Porco Evisc Congelado', 'description': '1 X 800 g', 'price': 'R$ 9,90'};Product
-v;477;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'price': 'R$ 49,98'};Product
-v;479;{'name': 'Brasmar Bacalhau Dessalgado Congelado', 'description': '1 X 450 g', 'price': 'R$ 32,00'};Product
-v;481;{'name': 'Pescador Peixe Sardinha Espalmada', 'description': '1 X 1 Und', 'price': 'R$ 10,60'};Product
-v;483;{'name': 'Cellier Atum Pedaços em Óleo Comestível com Caldo Vegetal', 'description': '1 X 500 g', 'price': 'R$ 25,90'};Product
-v;485;{'name': 'Brasmar Posta Saithe', 'description': '1 X 800 g', 'price': 'R$ 29,00'};Product
-v;487;{'name': 'Brasmar Lombo De Saithe Desossado Congelado', 'description': '1 X 1 Kg', 'price': 'R$ 72,90'};Product
-v;489;{'name': 'Aurora Filé de Tilápia com Manteiga e Limão Bem Leve', 'description': '1 X 310 g', 'price': 'R$ 27,50'};Product
-v;491;{'name': 'Brasmar Lombo Bacalhau Dessalgado ', 'description': '1 X 1 Kg', 'price': 'R$ 104,00'};Product
-v;493;{'name': 'Oceani Posta de Cação sem Pele Congelado', 'description': '1 X 800 g', 'price': 'R$ 20,90'};Product
-v;495;{'name': 'Arapongas Peixe Congelado Sardinha Laje Eviscerada', 'description': '1 X 800 g', 'price': 'R$ 9,90'};Product
-v;497;{'name': 'Filé de Cascudinho do Mar Congelado sem Pele Costa Sul Pacote 500g', 'description': '1 X 500 g', 'price': 'R$ 17,30'};Product
-v;499;{'name': 'Copacol Filé de Peixe Tilápia Congelado', 'description': '1 X 800 g', 'price': 'R$ 37,50'};Product
-v;501;{'name': 'Swift Salmão Pocionado.', 'description': '1 X 125 g', 'price': 'R$ 16,98'};Product
-v;503;{'name': 'Copacol Filé de Tilápia Empanado Multigrãos', 'description': '1 X 400 g', 'price': 'R$ 24,50'};Product
-v;505;{'name': 'Copacol Posta de Tilápia Congelada', 'description': '1 X 800 g', 'price': 'R$ 21,50'};Product
-v;507;{'name': 'Vitalmar Camarão Inteiro Cozido', 'description': '1 X 400 g', 'price': 'R$ 22,95'};Product
-v;509;{'name': 'Copacol Filé de Tilápia Empanado', 'description': '1 X 400 g', 'price': 'R$ 24,50'};Product
-v;511;{'name': 'Swift Sardinha Espalmada', 'description': '1 X 500 g', 'price': 'R$ 11,98'};Product
-v;513;{'name': 'Costa Sul Camarão Congelado Descascado', 'description': '1 X 800 g', 'price': 'R$ 49,50'};Product
-v;515;{'name': 'Swift Filé de Pescada sem Pele', 'description': '1 X 500 g', 'price': 'R$ 22,98'};Product
-v;517;{'name': 'Camarão Swiftpre Cozido Sem Cabeca', 'description': '1 X 400 g', 'price': 'R$ 29,98'};Product
-v;519;{'name': 'Vitalmar Peixe Sardinha Inteira', 'description': '1 X 800 g', 'price': 'R$ 8,90'};Product
-v;521;{'name': 'Copacol Stick de Tilápia Empanado', 'description': '1.5 Kg', 'price': 'R$ 32,50'};Product
-v;523;{'name': 'Seara Filé de Merluza Fresco Congelado', 'description': '1 X 500 g', 'price': 'R$ 24,50'};Product
-v;525;{'name': 'Iglu Manjuba Inteira Congelado', 'description': '1 X 800 g', 'price': 'R$ 13,90'};Product
-v;527;{'name': 'Costa Sul Camarão Cozido sem Cabeça', 'description': '1 X 400 g', 'price': 'R$ 34,50'};Product
-v;529;{'name': 'Seara Filé de Salmão Pedaço', 'description': '1 X 500 g', 'price': 'R$ 59,95'};Product
-v;531;{'name': 'Amazon Norte Filé de Peixe Pescada Congelada', 'description': '1 X 500 g', 'price': 'R$ 21,90'};Product
-v;533;{'name': 'Costa Sul Filé de Salmão Congelado', 'description': '1 X 500 g', 'price': 'R$ 49,50'};Product
-v;535;{'name': 'Alavário Lombos de Bacalhau Congelado Dessalgado', 'description': '1 X 1 Kg', 'price': 'R$ 99,00'};Product
-v;537;{'name': 'Vitalmar Filé De Sardinha Espalmada Peixe Congelado', 'description': '1 X 800 g', 'price': 'R$ 13,90'};Product
-v;539;{'name': 'Costa Sul Linguado Evicerado', 'description': '1 X 800 g', 'price': 'R$ 16,50'};Product
-v;541;{'name': 'Filé Peixe Salmão Costa Sul Congelado', 'description': 'Aprox. 1000g/ud', 'price': 'R$ 89,90/u'};Product
-v;543;{'name': 'Vitalmar Camarão Congelado', 'description': '1 X 800 g', 'price': 'R$ 42,50'};Product
-v;545;{'name': 'Swift Pedaço De Salmão Congelado', 'description': '1 X 650 g', 'price': 'R$ 79,98'};Product
-v;547;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'price': 'R$ 8,05'};Product
-v;549;{'name': 'Swift Lombo de Pirarucu', 'description': '1 X 300 g', 'price': 'R$ 24,98'};Product
-v;551;{'name': 'Swift Camarão Cinza Descascado', 'description': '1 X 400 g', 'price': 'R$ 39,98'};Product
-v;553;{'name': 'Swift File de Truta Temperada', 'description': '1 X 150 g', 'price': 'R$ 22,55'};Product
-v;555;{'name': 'Bom Porto Lombo Bacalhau Dessalgado', 'description': '1 X 1 Kg', 'price': 'R$ 64,80'};Product
-v;557;{'name': 'Swift Medalhão de Merluza', 'description': '1 X 500 g', 'price': 'R$ 21,98'};Product
-v;559;{'name': 'Amazon Norte Peixe Pescada Eviscerada Congelado', 'description': '1 X 500 g', 'price': 'R$ 6,95'};Product
-v;561;{'name': 'Pescador Atum Ralado ao Natural', 'description': '1 X 140 g', 'price': 'R$ 6,50'};Product
-v;563;{'name': 'Swift Filé de Peixe Pescada Amarela', 'description': '1 X 400 g', 'price': 'R$ 41,98'};Product
-v;565;{'name': 'Riberalves Lombos de Bacalhau ', 'description': '1 X 1 Kg', 'price': 'R$ 98,90'};Product
-v;567;{'name': 'Coqueiro Atum em Pedaços ', 'description': '1 X 170 g', 'price': 'R$ 8,90'};Product
-v;569;{'name': 'Swift Filé de Tilápia Empanada', 'description': '1 X 500 g', 'price': 'R$ 41,98'};Product
-v;571;{'name': 'Costa Sul Peixe Porco Evisc Congelado', 'description': '1 X 800 g', 'price': 'R$ 17,50'};Product
-v;573;{'name': 'Vitalmar Filé Cascudinho', 'description': '1 X 800 g', 'price': 'R$ 27,50'};Product
-v;575;{'name': 'Seiwa Folha de Alga Marinha', 'description': '1 X 10 Und', 'price': 'R$ 15,99'};Product
-v;577;{'name': 'Vitalmar Posta Cação Congelador', 'description': '1 X 800 g', 'price': 'R$ 19,95'};Product
-v;579;{'name': 'Costa Sul Postas Postas Corvina Peixe', 'description': '1 X 800 g', 'price': 'R$ 21,90'};Product
-v;581;{'name': 'Pescador Atum Ralado Óleo', 'description': '1 X 140 g', 'price': 'R$ 6,50'};Product
-v;583;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'price': 'R$ 49,95'};Product
-v;585;{'name': 'Costa Sul Pescados Sardinha Laje Congelado', 'description': '1 X 800 g', 'price': 'R$ 15,50'};Product
-v;587;{'name': 'Swift Carpaccio de Salmão', 'description': '1 X 100 g', 'price': 'R$ 19,98'};Product
-v;589;{'name': 'Vitalmar Peixe Congelado Palombeta', 'description': '1 X 1 Kg', 'price': 'R$ 9,90'};Product
-v;591;{'name': 'Costa Sul Camarao Vannamei Inteiro Cozido Congelado', 'description': '1 X 400 g', 'price': 'R$ 19,90'};Product
-v;593;{'name': 'Vitalmar Peixe Savelha Evicerada', 'description': '1 X 1 Kg', 'price': 'R$ 14,95'};Product
-v;595;{'name': 'Costa Sul Camarão 7 Barbas Descascado', 'description': '1 X 400 g', 'price': 'R$ 49,50'};Product
-v;597;{'name': 'Swift Filé De Truta Sem Espinha Congelada', 'description': '1 X 400 g', 'price': 'R$ 36,98'};Product
-v;599;{'name': 'Swift Filé de Merluza sem Pele', 'description': '1 X 800 g', 'price': 'R$ 33,98'};Product
-v;601;{'name': 'Swift Kit Paella Lula Camarão Mexilhão Congelado', 'description': '1 X 400 g', 'price': 'R$ 34,98'};Product
-v;603;{'name': 'Gomes Da Costa Atum Ralado Em Óleo Pouch', 'description': '1 X 500 g', 'price': 'R$ 19,90'};Product
-v;605;{'name': 'Gomes Da Costa Atum em Pedaços', 'description': '1 X 500 g', 'price': 'R$ 29,90'};Product
-v;607;{'name': 'C.Vale Filé Peixe Tilápia Congelado', 'description': '1 X 2 Kg', 'price': 'R$ 79,90'};Product
-v;609;{'name': 'Vitalmar Camarao Descascado', 'description': '1 X 400 g', 'price': 'R$ 46,50'};Product
-v;611;{'name': 'Swift Lula em Anéis', 'description': '1 X 400 g', 'price': 'R$ 29,98'};Product
-v;613;{'name': 'Swift Camarão Sem Cabeça Descascado Cozido', 'description': '1 X 400 g', 'price': 'R$ 44,98'};Product
-v;615;{'name': 'Swift Camarão Cinza sem Cabeça e Descascado', 'description': '1 X 400 g', 'price': 'R$ 59,98'};Product
-v;617;{'name': 'Swift Filé de Merluza Empanado', 'description': '1 X 500 g', 'price': 'R$ 39,98'};Product
-v;619;{'name': 'Saint Peters Filé de Tilapia sem Espinha', 'description': '1 X 250 g', 'price': 'R$ 23,69'};Product
-v;621;{'name': 'Korin Filé de Tilápia Congelado', 'description': '1 X 450 g', 'price': 'R$ 49,69'};Product
-v;623;{'name': 'Damm Filé de Salmão Defumado Congelado em Fatias', 'description': '1 X 80 g', 'price': 'R$ 28,69'};Product
-v;625;{'name': 'Damm Carpaccio de Salmão', 'description': '1 X 100 g', 'price': 'R$ 37,69'};Product
-v;627;{'name': 'Filé de Truta Refrigerado', 'description': 'Aprox. 450g/ud', 'price': 'R$ 49,95/u'};Product
-v;629;{'name': 'Fider Filé de Tilápia Resfriado', 'description': '1 X 500 g', 'price': 'R$ 32,69'};Product
-v;631;{'name': 'Frescatto Kani Kama Congelado', 'description': '1 X 200 g', 'price': 'R$ 9,69'};Product
-v;633;{'name': 'Kenko Folhas De Alga Marinha Desidratada', 'description': '1 X 27 g', 'price': 'R$ 29,79'};Product
-v;635;{'name': 'Frescatto Linguado em Filé Congelado', 'description': '1 X 500 g', 'price': 'R$ 51,99'};Product
-v;637;{'name': 'Filé Truta Ao Forno', 'description': '1 X 150 g', 'price': 'R$ 23,69'};Product
-v;639;{'name': 'Salmao Medalhao Congelado Damm 480 G', 'description': '1 X 480 g', 'price': 'R$ 76,99'};Product
-v;641;{'name': 'Qualitá Camarão Descascado Cozido e Sem Cauda Congelado', 'description': '1 X 200 g', 'price': 'R$ 29,90'};Product
-v;643;{'name': 'Brazilian Fish Pedaços de Filé de Tilápia', 'description': '1 X 300 g', 'price': 'R$ 19,99'};Product
-v;645;{'name': 'Riberalves Postas de Bacalhau Dessalgado', 'description': '1 X 800 g', 'price': 'R$ 79,90'};Product
-v;647;{'name': 'Cam Cz Coz Evisc 2640 Fisgo', 'description': '1 X 350 g', 'price': 'R$ 71,90'};Product
-v;649;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'price': 'R$ 11,29'};Product
-v;651;{'name': 'Coqueiro Patê de Atum Light', 'description': '1 X 170 g', 'price': 'R$ 9,99'};Product
-v;653;{'name': 'Octopus Polvo Resfriado', 'description': 'A partir de 200g', 'price': 'R$ 114,99/kg'};Product
-v;655;{'name': 'Fisgo Camarão Cinza Cozido Eviscerado', 'description': '1 X 350 g', 'price': 'R$ 53,99'};Product
-v;657;{'name': 'Camarão Médio Qualitá ', 'description': '1 X 400 g', 'price': 'R$ 49,90'};Product
-v;659;{'name': 'Damm Salmão Congelado em Filé com Pele', 'description': '1 X 800 g', 'price': 'R$ 110,99'};Product
-v;661;{'name': 'Coqueiro Atum em Pedaços ', 'description': '1 X 170 g', 'price': 'R$ 13,29'};Product
-v;663;{'name': 'Tours Atum Pedaços com Óleo Comestível e Salmoura', 'description': '1 X 180 g', 'price': 'R$ 19,29'};Product
-v;665;{'name': 'Seara Empanado De Soja Em Iscas De Peixe', 'description': '1 X 300 g', 'price': 'R$ 19,49'};Product
-v;667;{'name': 'Qualitá Salmão em Pedaços', 'description': '1 X 500 g', 'price': 'R$ 60,99'};Product
-v;669;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'price': 'R$ 69,90'};Product
-v;671;{'name': 'Riberalves Bacalhau Lombo Dessalgado Morhua', 'description': '1 X 1 Kg', 'price': 'R$ 159,90'};Product
-v;673;{'name': 'Edomae Yakinori Alga Marinha Kosher', 'description': '1 X 25 g', 'price': 'R$ 43,49'};Product
-v;675;{'name': 'Noronha Filé Merluza Argentina Congelado', 'description': '1 X 800 g', 'price': 'R$ 39,99'};Product
-v;677;{'name': 'Incrível! Filé de Peixe Empanado Vegano ', 'description': '1 X 220 g', 'price': 'R$ 17,49'};Product
-v;679;{'name': 'Riberalves Lombo De Bacalhau Dessalgado Congelado', 'description': '1 X 1 Kg', 'price': 'R$ 169,90'};Product
-v;681;{'name': 'Fisgo Camarão Cinza Descascado Eviscerado Congelado', 'description': '1 X 350 g', 'price': 'R$ 58,99'};Product
-v;683;{'name': 'Korin Filés de Truta Congelados', 'description': '1 X 500 g', 'price': 'R$ 64,90'};Product
-v;685;{'name': 'Hossomaki De Atum', 'description': '1 X 140 g', 'price': 'R$ 13,99'};Product
-v;687;{'name': 'Gomes da Costa Filé de Sardinha em Óleo com Limão', 'description': '1 X 125 g', 'price': 'R$ 12,79'};Product
-v;689;{'name': 'Iogurte Líquido Zero Lactose Corpus Amora E Maracujá 800G', 'description': '1 X 800 g', 'price': 'R$ 16,49'};Product
-v;691;{'name': 'Qualitá Lombo Bacalhau Dessalgado Porto', 'description': '1 X 800 g', 'price': 'R$ 109,90'};Product
-v;693;{'name': 'Riberalves Polaca Do Alasca Dessalgada Desfiada', 'description': '1 X 500 g', 'price': 'R$ 30,69'};Product
-v;695;{'name': 'Riberalves Bacalhau da Casa', 'description': '1 X 300 g', 'price': 'R$ 29,99'};Product
-v;697;{'name': 'Páprica Defumada Br Spices', 'description': '1 X 45 g', 'price': 'R$ 22,49'};Product
-v;699;{'name': 'Taequi Tambaqui Posta Tilápia', 'description': '1 X 800 g', 'price': 'R$ 41,69'};Product
-v;701;{'name': 'Ramirez Bacalhau Português Azeite E Alho', 'description': '1 X 120 g', 'price': 'R$ 43,29'};Product
-v;703;{'name': 'Korin Filé Porcionados de Truta Rosa com Pele', 'description': '1 X 350 g', 'price': 'R$ 69,90'};Product
-v;705;{'name': 'Ramirez Atum Em Posta', 'description': '1 X 120 g', 'price': 'R$ 17,49'};Product
-v;707;{'name': 'Ramirez Filé de Sardinha em Azeite com Azeitonas', 'description': '1 X 70 g', 'price': 'R$ 19,29'};Product
-v;709;{'name': 'Niguiri De Salmao', 'description': '1 X 170 g', 'price': 'R$ 23,99'};Product
-v;711;{'name': 'Bacala Bacalhau Porto em Pedacos', 'description': '1 X 500 g', 'price': 'R$ 39,90'};Product
-v;713;{'name': 'Mega Combinado De Salmao', 'description': '1 X 440 g', 'price': 'R$ 79,90'};Product
-v;715;{'name': 'Bacalanor Peixe Salgado Polaca Pedaço', 'description': '1 X 800 g', 'price': 'R$ 39,90'};Product
-v;717;{'name': 'Fisgo Camaro sem cabea Cozido 3044', 'description': '1 X 350 g', 'price': 'R$ 54,90'};Product
-v;719;{'name': 'Lombo de Bacalhau Dessalgado Congelado', 'description': '1 X 1000 g', 'price': 'R$ 139,90'};Product
-v;721;{'name': 'Bom Peixe Vieira Peruana Congelada', 'description': '1 X 200 g', 'price': 'R$ 75,99'};Product
-v;723;{'name': 'Petalo Nugget de Panga', 'description': '1 X 400 g', 'price': 'R$ 24,69'};Product
-v;725;{'name': 'Ceviche Oriental Peixe Branco', 'description': '1 X 150 g', 'price': 'R$ 16,99'};Product
-v;727;{'name': 'Qualitá Filé de Tilápia Congelado', 'description': '1 X 500.0 g', 'price': 'R$ 31,43'};Product
-v;729;{'name': 'Damm Kani Kama à Vácuo', 'description': '1 X 250 g', 'price': 'R$ 19,90'};Product
-v;731;{'name': 'Qualitá Camarão Pequeno Descascado Cozido Congelado', 'description': '1 X 400 g', 'price': 'R$ 64,90'};Product
-v;733;{'name': 'Copacol Filé de Peixe Tilápia Congelado', 'description': '1 X 800 g', 'price': 'R$ 42,50'};Product
-v;735;{'name': 'Copacol Posta de Tilápia Congelada', 'description': '1 X 800 g', 'price': 'R$ 19,98'};Product
-v;737;{'name': 'O Pescador Peixe Pescada Espalmada ', 'description': '1 X 800 g', 'price': 'R$ 14,90'};Product
-v;739;{'name': 'Copacol Stick de Tilápia Empanado', 'description': '1 X 2 Kg', 'price': 'R$ 33,50'};Product
-v;741;{'name': 'C Vale Posta Tilapia Iqf', 'description': '1 X 800 g', 'price': 'R$ 20,50'};Product
-v;743;{'name': 'Bom Peixe Peixe Porco Congelada', 'description': '1 X 500 g', 'price': 'R$ 12,50'};Product
-v;745;{'name': 'Bacalanor Filé De Polaca Congelado', 'description': '1 X 500 g', 'price': 'R$ 15,50'};Product
-v;747;{'name': 'Aurora Posta de Tilápia ', 'description': '1 X 1 Kg', 'price': 'R$ 22,70'};Product
-v;749;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'price': 'R$ 8,20'};Product
-v;751;{'name': 'O Pescador Filé de Congelado Merluza ', 'description': '1 X 800 g', 'price': 'R$ 27,50'};Product
-v;753;{'name': 'Costa Sul Filé de Peixe Pescada Congelado', 'description': '1 X 500 g', 'price': 'R$ 20,50'};Product
-v;755;{'name': 'Coqueiro Atum Ralado em Óleo', 'description': '1 X 170 g', 'price': 'R$ 7,99'};Product
-v;757;{'name': 'C-vale Filé de Tilápia', 'description': '1 X 800 g', 'price': 'R$ 39,00'};Product
-v;759;{'name': 'Copacol Costelinha de Tilapia Congelada', 'description': 'Aprox. 600g/ud', 'price': 'R$ 11,34/u'};Product
-v;761;{'name': 'Bom Peixe Filé Merluza Peixe Congelado', 'description': '1 X 500 g', 'price': 'R$ 33,00'};Product
-v;763;{'name': 'Bom Peixe Sardinha Evis', 'description': '1 X 800 g', 'price': 'R$ 11,30'};Product
-v;765;{'name': 'Pescador Peixe Manjubinha', 'description': '1 X 1 Und', 'price': 'R$ 12,79'};Product
-v;767;{'name': 'Incrível! Filé de Peixe Empanado Vegano ', 'description': '1 X 220 g', 'price': 'R$ 12,80'};Product
-v;769;{'name': 'Yaki Nori Yari Algas Marinhas 10 Folhas', 'description': '1 X 25 g', 'price': 'R$ 18,40'};Product
-v;771;{'name': 'Gomes Da Costa Atum Ralado Em Óleo Pouch', 'description': '1 X 500 g', 'price': 'R$ 21,90'};Product
-v;773;{'name': 'Pescador Filé Pescada', 'description': '1 X 1 Und', 'price': 'R$ 26,50'};Product
-v;775;{'name': 'Gomes Da Costa Atum em Pedaços', 'description': '1 X 500 g', 'price': 'R$ 30,50'};Product
-v;777;{'name': 'Maris Camarão Descascado Cozido', 'description': '1 X 400 g', 'price': 'R$ 50,50'};Product
-v;779;{'name': 'Aurora Filé de Tilápia Congelado', 'description': '1 X 800 g', 'price': 'R$ 34,90'};Product
-v;781;{'name': 'Bom Peixe Posta Cação sem Pele Congelado', 'description': '1 X 500 g', 'price': 'R$ 11,90'};Product
-v;783;{'name': 'Copacol Filé de Tilápia Empanado', 'description': '1 X 400 g', 'price': 'R$ 27,50'};Product
-v;785;{'name': 'Costa Sul Filé de Salmão Congelado', 'description': '1 X 500 g', 'price': 'R$ 58,00'};Product
-v;787;{'name': 'Costa Sul Peixe Porco Evisc Congelado', 'description': '1 X 800 g', 'price': 'R$ 9,90'};Product
-v;789;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'price': 'R$ 49,98'};Product
-v;791;{'name': 'Brasmar Bacalhau Dessalgado Congelado', 'description': '1 X 450 g', 'price': 'R$ 32,00'};Product
-v;793;{'name': 'Pescador Peixe Sardinha Espalmada', 'description': '1 X 1 Und', 'price': 'R$ 10,60'};Product
-v;795;{'name': 'Cellier Atum Pedaços em Óleo Comestível com Caldo Vegetal', 'description': '1 X 500 g', 'price': 'R$ 25,90'};Product
-v;797;{'name': 'Brasmar Posta Saithe', 'description': '1 X 800 g', 'price': 'R$ 29,00'};Product
-v;799;{'name': 'Brasmar Lombo De Saithe Desossado Congelado', 'description': '1 X 1 Kg', 'price': 'R$ 72,90'};Product
-v;801;{'name': 'Aurora Filé de Tilápia com Manteiga e Limão Bem Leve', 'description': '1 X 310 g', 'price': 'R$ 27,50'};Product
-v;803;{'name': 'Brasmar Lombo Bacalhau Dessalgado ', 'description': '1 X 1 Kg', 'price': 'R$ 104,00'};Product
-v;805;{'name': 'Oceani Posta de Cação sem Pele Congelado', 'description': '1 X 800 g', 'price': 'R$ 20,90'};Product
-v;807;{'name': 'Arapongas Peixe Congelado Sardinha Laje Eviscerada', 'description': '1 X 800 g', 'price': 'R$ 9,90'};Product
-v;809;{'name': 'Filé de Cascudinho do Mar Congelado sem Pele Costa Sul Pacote 500g', 'description': '1 X 500 g', 'price': 'R$ 17,30'};Product
-v;811;{'name': 'Copacol Filé de Peixe Tilápia Congelado', 'description': '1 X 800 g', 'price': 'R$ 37,50'};Product
-v;813;{'name': 'Swift Salmão Pocionado.', 'description': '1 X 125 g', 'price': 'R$ 16,98'};Product
-v;815;{'name': 'Copacol Filé de Tilápia Empanado Multigrãos', 'description': '1 X 400 g', 'price': 'R$ 24,50'};Product
-v;817;{'name': 'Copacol Posta de Tilápia Congelada', 'description': '1 X 800 g', 'price': 'R$ 21,50'};Product
-v;819;{'name': 'Vitalmar Camarão Inteiro Cozido', 'description': '1 X 400 g', 'price': 'R$ 22,95'};Product
-v;821;{'name': 'Copacol Filé de Tilápia Empanado', 'description': '1 X 400 g', 'price': 'R$ 24,50'};Product
-v;823;{'name': 'Swift Sardinha Espalmada', 'description': '1 X 500 g', 'price': 'R$ 11,98'};Product
-v;825;{'name': 'Costa Sul Camarão Congelado Descascado', 'description': '1 X 800 g', 'price': 'R$ 49,50'};Product
-v;827;{'name': 'Swift Filé de Pescada sem Pele', 'description': '1 X 500 g', 'price': 'R$ 22,98'};Product
-v;829;{'name': 'Camarão Swiftpre Cozido Sem Cabeca', 'description': '1 X 400 g', 'price': 'R$ 29,98'};Product
-v;831;{'name': 'Vitalmar Peixe Sardinha Inteira', 'description': '1 X 800 g', 'price': 'R$ 8,90'};Product
-v;833;{'name': 'Copacol Stick de Tilápia Empanado', 'description': '1.5 Kg', 'price': 'R$ 32,50'};Product
-v;835;{'name': 'Seara Filé de Merluza Fresco Congelado', 'description': '1 X 500 g', 'price': 'R$ 24,50'};Product
-v;837;{'name': 'Iglu Manjuba Inteira Congelado', 'description': '1 X 800 g', 'price': 'R$ 13,90'};Product
-v;839;{'name': 'Costa Sul Camarão Cozido sem Cabeça', 'description': '1 X 400 g', 'price': 'R$ 34,50'};Product
-v;841;{'name': 'Seara Filé de Salmão Pedaço', 'description': '1 X 500 g', 'price': 'R$ 59,95'};Product
-v;843;{'name': 'Amazon Norte Filé de Peixe Pescada Congelada', 'description': '1 X 500 g', 'price': 'R$ 21,90'};Product
-v;845;{'name': 'Costa Sul Filé de Salmão Congelado', 'description': '1 X 500 g', 'price': 'R$ 49,50'};Product
-v;847;{'name': 'Alavário Lombos de Bacalhau Congelado Dessalgado', 'description': '1 X 1 Kg', 'price': 'R$ 99,00'};Product
-v;849;{'name': 'Vitalmar Filé De Sardinha Espalmada Peixe Congelado', 'description': '1 X 800 g', 'price': 'R$ 13,90'};Product
-v;851;{'name': 'Costa Sul Linguado Evicerado', 'description': '1 X 800 g', 'price': 'R$ 16,50'};Product
-v;853;{'name': 'Filé Peixe Salmão Costa Sul Congelado', 'description': 'Aprox. 1000g/ud', 'price': 'R$ 89,90/u'};Product
-v;855;{'name': 'Vitalmar Camarão Congelado', 'description': '1 X 800 g', 'price': 'R$ 42,50'};Product
-v;857;{'name': 'Swift Pedaço De Salmão Congelado', 'description': '1 X 650 g', 'price': 'R$ 79,98'};Product
-v;859;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'price': 'R$ 8,05'};Product
-v;861;{'name': 'Swift Lombo de Pirarucu', 'description': '1 X 300 g', 'price': 'R$ 24,98'};Product
-v;863;{'name': 'Swift Camarão Cinza Descascado', 'description': '1 X 400 g', 'price': 'R$ 39,98'};Product
-v;865;{'name': 'Swift File de Truta Temperada', 'description': '1 X 150 g', 'price': 'R$ 22,55'};Product
-v;867;{'name': 'Bom Porto Lombo Bacalhau Dessalgado', 'description': '1 X 1 Kg', 'price': 'R$ 64,80'};Product
-v;869;{'name': 'Swift Medalhão de Merluza', 'description': '1 X 500 g', 'price': 'R$ 21,98'};Product
-v;871;{'name': 'Amazon Norte Peixe Pescada Eviscerada Congelado', 'description': '1 X 500 g', 'price': 'R$ 6,95'};Product
-v;873;{'name': 'Pescador Atum Ralado ao Natural', 'description': '1 X 140 g', 'price': 'R$ 6,50'};Product
-v;875;{'name': 'Swift Filé de Peixe Pescada Amarela', 'description': '1 X 400 g', 'price': 'R$ 41,98'};Product
-v;877;{'name': 'Riberalves Lombos de Bacalhau ', 'description': '1 X 1 Kg', 'price': 'R$ 98,90'};Product
-v;879;{'name': 'Coqueiro Atum em Pedaços ', 'description': '1 X 170 g', 'price': 'R$ 8,90'};Product
-v;881;{'name': 'Swift Filé de Tilápia Empanada', 'description': '1 X 500 g', 'price': 'R$ 41,98'};Product
-v;883;{'name': 'Costa Sul Peixe Porco Evisc Congelado', 'description': '1 X 800 g', 'price': 'R$ 17,50'};Product
-v;885;{'name': 'Vitalmar Filé Cascudinho', 'description': '1 X 800 g', 'price': 'R$ 27,50'};Product
-v;887;{'name': 'Seiwa Folha de Alga Marinha', 'description': '1 X 10 Und', 'price': 'R$ 15,99'};Product
-v;889;{'name': 'Vitalmar Posta Cação Congelador', 'description': '1 X 800 g', 'price': 'R$ 19,95'};Product
-v;891;{'name': 'Costa Sul Postas Postas Corvina Peixe', 'description': '1 X 800 g', 'price': 'R$ 21,90'};Product
-v;893;{'name': 'Pescador Atum Ralado Óleo', 'description': '1 X 140 g', 'price': 'R$ 6,50'};Product
-v;895;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'price': 'R$ 49,95'};Product
-v;897;{'name': 'Costa Sul Pescados Sardinha Laje Congelado', 'description': '1 X 800 g', 'price': 'R$ 15,50'};Product
-v;899;{'name': 'Swift Carpaccio de Salmão', 'description': '1 X 100 g', 'price': 'R$ 19,98'};Product
-v;901;{'name': 'Vitalmar Peixe Congelado Palombeta', 'description': '1 X 1 Kg', 'price': 'R$ 9,90'};Product
-v;903;{'name': 'Costa Sul Camarao Vannamei Inteiro Cozido Congelado', 'description': '1 X 400 g', 'price': 'R$ 19,90'};Product
-v;905;{'name': 'Vitalmar Peixe Savelha Evicerada', 'description': '1 X 1 Kg', 'price': 'R$ 14,95'};Product
-v;907;{'name': 'Costa Sul Camarão 7 Barbas Descascado', 'description': '1 X 400 g', 'price': 'R$ 49,50'};Product
-v;909;{'name': 'Swift Filé De Truta Sem Espinha Congelada', 'description': '1 X 400 g', 'price': 'R$ 36,98'};Product
-v;911;{'name': 'Swift Filé de Merluza sem Pele', 'description': '1 X 800 g', 'price': 'R$ 33,98'};Product
-v;913;{'name': 'Swift Kit Paella Lula Camarão Mexilhão Congelado', 'description': '1 X 400 g', 'price': 'R$ 34,98'};Product
-v;915;{'name': 'Gomes Da Costa Atum Ralado Em Óleo Pouch', 'description': '1 X 500 g', 'price': 'R$ 19,90'};Product
-v;917;{'name': 'Gomes Da Costa Atum em Pedaços', 'description': '1 X 500 g', 'price': 'R$ 29,90'};Product
-v;919;{'name': 'C.Vale Filé Peixe Tilápia Congelado', 'description': '1 X 2 Kg', 'price': 'R$ 79,90'};Product
-v;921;{'name': 'Vitalmar Camarao Descascado', 'description': '1 X 400 g', 'price': 'R$ 46,50'};Product
-v;923;{'name': 'Swift Lula em Anéis', 'description': '1 X 400 g', 'price': 'R$ 29,98'};Product
-v;925;{'name': 'Swift Camarão Sem Cabeça Descascado Cozido', 'description': '1 X 400 g', 'price': 'R$ 44,98'};Product
-v;927;{'name': 'Swift Camarão Cinza sem Cabeça e Descascado', 'description': '1 X 400 g', 'price': 'R$ 59,98'};Product
-v;929;{'name': 'Swift Filé de Merluza Empanado', 'description': '1 X 500 g', 'price': 'R$ 39,98'};Product
-v;931;{'name': "Member's Mark Filé de Tilápia", 'description': '1 X 1 Kg', 'price': 'R$ 57,98'};Product
-v;933;{'name': 'Damm Carpaccio de Salmão', 'description': '1 X 100 g', 'price': 'R$ 21,98'};Product
-v;935;{'name': "Filé Member'Smark De Salmao", 'description': '1 X 1 Kg', 'price': 'R$ 119,98'};Product
-v;937;{'name': 'Damm Posta de Salmão Premium', 'description': '1 X 500 g', 'price': 'R$ 69,98'};Product
-v;939;{'name': 'Damm Kani Kama à Vácuo', 'description': '1 X 250 g', 'price': 'R$ 17,98'};Product
-v;941;{'name': 'Frescatto Filé De Merluza Congelado', 'description': '1 X 500 g', 'price': 'R$ 33,98'};Product
-v;943;{'name': 'Kenko Folhas De Alga Marinha Desidratada', 'description': '1 X 27 g', 'price': 'R$ 10,98'};Product
-v;945;{'name': 'Pif Paf Salmão Congelado 500 G', 'description': '1 X 500 g', 'price': 'R$ 66,98'};Product
-v;947;{'name': 'Salmao Medalhao Congelado Damm 480 G', 'description': '1 X 480 g', 'price': 'R$ 59,98'};Product
-v;949;{'name': "Pack com 3 Member's Mark Atum Sólido ao Natural", 'description': '1 X 120 g', 'price': 'R$ 25,98'};Product
-v;951;{'name': 'Frescatto Tentaculos De Polvo Congelado', 'description': '1 X 700 g', 'price': 'R$ 141,98'};Product
-v;953;{'name': 'Riberalves Bacalhau Desfiado Macrocepha', 'description': '1 X 1 Kg', 'price': 'R$ 65,98'};Product
-v;955;{'name': 'Damm Hambúrguer de Salmão', 'description': '1 X 360 g', 'price': 'R$ 30,98'};Product
-v;957;{'name': "Pack com 3 Member's Mark Atum Ralado em Óleo", 'description': '1 X 120 g', 'price': 'R$ 21,98'};Product
-v;959;{'name': 'Bom Porto Bolinhos Com Bacalhau Congelados', 'description': '1 X 360 g', 'price': 'R$ 24,98'};Product
-v;961;{'name': 'Frescatto Camarão Rosa Descascado', 'description': '1 X 400.0 g', 'price': 'R$ 189,48'};Product
-v;963;{'name': "Member's Mark Lombo de Bacalhau", 'description': '1 X 2 Kg', 'price': 'R$ 227,98'};Product
-v;965;{'name': "Member's Mark Lombo de Bacalhau Dessalgado Congelado", 'description': '1 X 1 Kg', 'price': 'R$ 129,98'};Product
-v;967;{'name': "Member's Mark Pack Filé de Atum em Azeite", 'description': '1 X 120 g', 'price': 'R$ 31,98'};Product
-v;969;{'name': 'Frescatto Posta De Cacao Sem Pele', 'description': '1 X 500 g', 'price': 'R$ 19,98'};Product
-v;971;{'name': 'Damm Pack Com 2Sardela', 'description': '1 X 120 g', 'price': 'R$ 32,48'};Product
-v;973;{'name': "Camarão Member'S Mark Cinza Cozido", 'description': '1 X 800 g', 'price': 'R$ 83,48'};Product
-v;975;{'name': 'Riberalves Lombo De Bacalhau Dessalgado Congelado', 'description': '1 X 1 Kg', 'price': 'R$ 204,98'};Product
-v;977;{'name': "Member's Mark Atum Sólido Em Óleo", 'description': '1 X 510 g', 'price': 'R$ 25,98'};Product
-v;979;{'name': 'Noronha Mexilhão Sem Casca', 'description': '1 X 400 g', 'price': 'R$ 22,98'};Product
-v;981;{'name': 'Noronha Pescados Filé de Tilápia Temperado e Empanado', 'description': '1 X 500 g', 'price': 'R$ 49,98'};Product
-v;983;{'name': "Member's Mark Lombo De Bacalhau Dessalgado Congelado", 'description': '1 X 1 Kg', 'price': 'R$ 129,98'};Product
-v;985;{'name': 'Noronha Pescados Filé de Merluza Temperado e Empanado', 'description': '1 X 500 g', 'price': 'R$ 37,98'};Product
-v;987;{'name': 'Filé Blumar De Salmão Com Pele Congelado', 'description': '1 X 750 g', 'price': 'R$ 131,98'};Product
-v;989;{'name': 'Noronha Pescados Camarão Cinza Temperado e Empanado', 'description': '1 X 300 g', 'price': 'R$ 49,48'};Product
-v;991;{'name': 'Lombo Bacalhau Morhua Bom Porto 2 Kg', 'description': '1 X 2 Kg', 'price': 'R$ 259,48'};Product
-e;4;{};OFFERS;1;3
-e;6;{};OFFERS;1;5
-e;8;{};OFFERS;1;7
-e;10;{};OFFERS;1;9
-e;12;{};OFFERS;1;11
-e;14;{};OFFERS;1;13
-e;16;{};OFFERS;1;15
-e;18;{};OFFERS;1;17
-e;20;{};OFFERS;1;19
-e;22;{};OFFERS;1;21
-e;24;{};OFFERS;1;23
-e;26;{};OFFERS;1;25
-e;28;{};OFFERS;1;27
-e;30;{};OFFERS;1;29
-e;32;{};OFFERS;1;31
-e;34;{};OFFERS;1;33
-e;36;{};OFFERS;1;35
-e;38;{};OFFERS;1;37
-e;40;{};OFFERS;1;39
-e;42;{};OFFERS;1;41
-e;44;{};OFFERS;1;43
-e;46;{};OFFERS;1;45
-e;48;{};OFFERS;1;47
-e;50;{};OFFERS;1;49
-e;52;{};OFFERS;1;51
-e;54;{};OFFERS;1;53
-e;56;{};OFFERS;1;55
-e;58;{};OFFERS;1;57
-e;60;{};OFFERS;1;59
-e;62;{};OFFERS;1;61
-e;64;{};OFFERS;1;63
-e;66;{};OFFERS;1;65
-e;68;{};OFFERS;1;67
-e;70;{};OFFERS;1;69
-e;72;{};OFFERS;1;71
-e;74;{};OFFERS;1;73
-e;76;{};OFFERS;1;75
-e;78;{};OFFERS;1;77
-e;80;{};OFFERS;1;79
-e;82;{};OFFERS;1;81
-e;84;{};OFFERS;1;83
-e;86;{};OFFERS;1;85
-e;88;{};OFFERS;1;87
-e;90;{};OFFERS;1;89
-e;92;{};OFFERS;1;91
-e;94;{};OFFERS;1;93
-e;96;{};OFFERS;1;95
-e;98;{};OFFERS;1;97
-e;100;{};OFFERS;1;99
-e;102;{};OFFERS;1;101
-e;104;{};OFFERS;1;103
-e;106;{};OFFERS;1;105
-e;108;{};OFFERS;1;107
-e;110;{};OFFERS;1;109
-e;112;{};OFFERS;1;111
-e;114;{};OFFERS;1;113
-e;116;{};OFFERS;2;115
-e;118;{};OFFERS;2;117
-e;120;{};OFFERS;2;119
-e;122;{};OFFERS;2;121
-e;124;{};OFFERS;2;123
-e;126;{};OFFERS;2;125
-e;128;{};OFFERS;2;127
-e;130;{};OFFERS;2;129
-e;132;{};OFFERS;2;131
-e;134;{};OFFERS;2;133
-e;136;{};OFFERS;2;135
-e;138;{};OFFERS;2;137
-e;140;{};OFFERS;2;139
-e;142;{};OFFERS;2;141
-e;144;{};OFFERS;2;143
-e;146;{};OFFERS;2;145
-e;148;{};OFFERS;2;147
-e;150;{};OFFERS;2;149
-e;152;{};OFFERS;2;151
-e;154;{};OFFERS;2;153
-e;156;{};OFFERS;2;155
-e;158;{};OFFERS;2;157
-e;160;{};OFFERS;2;159
-e;162;{};OFFERS;2;161
-e;164;{};OFFERS;2;163
-e;166;{};OFFERS;2;165
-e;168;{};OFFERS;2;167
-e;170;{};OFFERS;2;169
-e;172;{};OFFERS;2;171
-e;174;{};OFFERS;2;173
-e;176;{};OFFERS;2;175
-e;178;{};OFFERS;2;177
-e;180;{};OFFERS;2;179
-e;182;{};OFFERS;2;181
-e;184;{};OFFERS;2;183
-e;186;{};OFFERS;2;185
-e;188;{};OFFERS;2;187
-e;190;{};OFFERS;2;189
-e;192;{};OFFERS;2;191
-e;194;{};OFFERS;2;193
-e;196;{};OFFERS;2;195
-e;198;{};OFFERS;2;197
-e;200;{};OFFERS;2;199
-e;202;{};OFFERS;2;201
-e;204;{};OFFERS;2;203
-e;206;{};OFFERS;2;205
-e;208;{};OFFERS;2;207
-e;210;{};OFFERS;2;209
-e;212;{};OFFERS;2;211
-e;214;{};OFFERS;2;213
-e;216;{};OFFERS;2;215
-e;218;{};OFFERS;2;217
-e;220;{};OFFERS;2;219
-e;222;{};OFFERS;2;221
-e;224;{};OFFERS;2;223
-e;226;{};OFFERS;2;225
-e;228;{};OFFERS;2;227
-e;230;{};OFFERS;2;229
-e;232;{};OFFERS;2;231
-e;234;{};OFFERS;2;233
-e;236;{};OFFERS;2;235
-e;238;{};OFFERS;2;237
-e;240;{};OFFERS;2;239
-e;242;{};OFFERS;2;241
-e;244;{};OFFERS;2;243
-e;246;{};OFFERS;2;245
-e;248;{};OFFERS;2;247
-e;250;{};OFFERS;2;249
-e;252;{};OFFERS;2;251
-e;254;{};OFFERS;2;253
-e;256;{};OFFERS;2;255
-e;258;{};OFFERS;2;257
-e;260;{};OFFERS;2;259
-e;262;{};OFFERS;2;261
-e;264;{};OFFERS;2;263
-e;266;{};OFFERS;2;265
-e;268;{};OFFERS;2;267
-e;270;{};OFFERS;2;269
-e;272;{};OFFERS;2;271
-e;274;{};OFFERS;2;273
-e;276;{};OFFERS;2;275
-e;278;{};OFFERS;2;277
-e;280;{};OFFERS;2;279
-e;282;{};OFFERS;2;281
-e;284;{};OFFERS;2;283
-e;286;{};OFFERS;2;285
-e;288;{};OFFERS;2;287
-e;290;{};OFFERS;2;289
-e;292;{};OFFERS;2;291
-e;294;{};OFFERS;2;293
-e;296;{};OFFERS;2;295
-e;298;{};OFFERS;2;297
-e;300;{};OFFERS;2;299
-e;302;{};OFFERS;2;301
-e;304;{};OFFERS;2;303
-e;306;{};OFFERS;2;305
-e;308;{};OFFERS;3;307
-e;310;{};OFFERS;3;309
-e;312;{};OFFERS;3;311
-e;314;{};OFFERS;3;313
-e;316;{};OFFERS;3;315
-e;318;{};OFFERS;3;317
-e;320;{};OFFERS;3;319
-e;322;{};OFFERS;3;321
-e;324;{};OFFERS;3;323
-e;326;{};OFFERS;3;325
-e;328;{};OFFERS;3;327
-e;330;{};OFFERS;3;329
-e;332;{};OFFERS;3;331
-e;334;{};OFFERS;3;333
-e;336;{};OFFERS;3;335
-e;338;{};OFFERS;3;337
-e;340;{};OFFERS;3;339
-e;342;{};OFFERS;3;341
-e;344;{};OFFERS;3;343
-e;346;{};OFFERS;3;345
-e;348;{};OFFERS;3;347
-e;350;{};OFFERS;3;349
-e;352;{};OFFERS;3;351
-e;354;{};OFFERS;3;353
-e;356;{};OFFERS;3;355
-e;358;{};OFFERS;3;357
-e;360;{};OFFERS;3;359
-e;362;{};OFFERS;3;361
-e;364;{};OFFERS;3;363
-e;366;{};OFFERS;3;365
-e;368;{};OFFERS;3;367
-e;370;{};OFFERS;3;369
-e;372;{};OFFERS;3;371
-e;374;{};OFFERS;3;373
-e;376;{};OFFERS;3;375
-e;378;{};OFFERS;3;377
-e;380;{};OFFERS;3;379
-e;382;{};OFFERS;3;381
-e;384;{};OFFERS;3;383
-e;386;{};OFFERS;3;385
-e;388;{};OFFERS;3;387
-e;390;{};OFFERS;3;389
-e;392;{};OFFERS;3;391
-e;394;{};OFFERS;3;393
-e;396;{};OFFERS;3;395
-e;398;{};OFFERS;3;397
-e;400;{};OFFERS;3;399
-e;402;{};OFFERS;3;401
-e;404;{};OFFERS;3;403
-e;406;{};OFFERS;3;405
-e;408;{};OFFERS;3;407
-e;410;{};OFFERS;3;409
-e;412;{};OFFERS;3;411
-e;414;{};OFFERS;3;413
-e;416;{};OFFERS;3;415
-e;418;{};OFFERS;3;417
-e;420;{};OFFERS;3;419
-e;422;{};OFFERS;3;421
-e;424;{};OFFERS;3;423
-e;426;{};OFFERS;3;425
-e;428;{};OFFERS;3;427
-e;430;{};OFFERS;3;429
-e;432;{};OFFERS;3;431
-e;434;{};OFFERS;3;433
-e;436;{};OFFERS;3;435
-e;438;{};OFFERS;3;437
-e;440;{};OFFERS;3;439
-e;442;{};OFFERS;3;441
-e;444;{};OFFERS;3;443
-e;446;{};OFFERS;3;445
-e;448;{};OFFERS;3;447
-e;450;{};OFFERS;3;449
-e;452;{};OFFERS;3;451
-e;454;{};OFFERS;3;453
-e;456;{};OFFERS;3;455
-e;458;{};OFFERS;3;457
-e;460;{};OFFERS;3;459
-e;462;{};OFFERS;3;461
-e;464;{};OFFERS;3;463
-e;466;{};OFFERS;3;465
-e;468;{};OFFERS;3;467
-e;470;{};OFFERS;3;469
-e;472;{};OFFERS;3;471
-e;474;{};OFFERS;3;473
-e;476;{};OFFERS;3;475
-e;478;{};OFFERS;3;477
-e;480;{};OFFERS;3;479
-e;482;{};OFFERS;3;481
-e;484;{};OFFERS;3;483
-e;486;{};OFFERS;3;485
-e;488;{};OFFERS;3;487
-e;490;{};OFFERS;3;489
-e;492;{};OFFERS;3;491
-e;494;{};OFFERS;3;493
-e;496;{};OFFERS;3;495
-e;498;{};OFFERS;3;497
-e;500;{};OFFERS;3;499
-e;502;{};OFFERS;3;501
-e;504;{};OFFERS;3;503
-e;506;{};OFFERS;3;505
-e;508;{};OFFERS;3;507
-e;510;{};OFFERS;3;509
-e;512;{};OFFERS;3;511
-e;514;{};OFFERS;3;513
-e;516;{};OFFERS;3;515
-e;518;{};OFFERS;3;517
-e;520;{};OFFERS;3;519
-e;522;{};OFFERS;3;521
-e;524;{};OFFERS;3;523
-e;526;{};OFFERS;3;525
-e;528;{};OFFERS;3;527
-e;530;{};OFFERS;3;529
-e;532;{};OFFERS;3;531
-e;534;{};OFFERS;3;533
-e;536;{};OFFERS;3;535
-e;538;{};OFFERS;3;537
-e;540;{};OFFERS;3;539
-e;542;{};OFFERS;3;541
-e;544;{};OFFERS;3;543
-e;546;{};OFFERS;3;545
-e;548;{};OFFERS;3;547
-e;550;{};OFFERS;3;549
-e;552;{};OFFERS;3;551
-e;554;{};OFFERS;3;553
-e;556;{};OFFERS;3;555
-e;558;{};OFFERS;3;557
-e;560;{};OFFERS;3;559
-e;562;{};OFFERS;3;561
-e;564;{};OFFERS;3;563
-e;566;{};OFFERS;3;565
-e;568;{};OFFERS;3;567
-e;570;{};OFFERS;3;569
-e;572;{};OFFERS;3;571
-e;574;{};OFFERS;3;573
-e;576;{};OFFERS;3;575
-e;578;{};OFFERS;3;577
-e;580;{};OFFERS;3;579
-e;582;{};OFFERS;3;581
-e;584;{};OFFERS;3;583
-e;586;{};OFFERS;3;585
-e;588;{};OFFERS;3;587
-e;590;{};OFFERS;3;589
-e;592;{};OFFERS;3;591
-e;594;{};OFFERS;3;593
-e;596;{};OFFERS;3;595
-e;598;{};OFFERS;3;597
-e;600;{};OFFERS;3;599
-e;602;{};OFFERS;3;601
-e;604;{};OFFERS;3;603
-e;606;{};OFFERS;3;605
-e;608;{};OFFERS;3;607
-e;610;{};OFFERS;3;609
-e;612;{};OFFERS;3;611
-e;614;{};OFFERS;3;613
-e;616;{};OFFERS;3;615
-e;618;{};OFFERS;3;617
-e;620;{};OFFERS;4;619
-e;622;{};OFFERS;4;621
-e;624;{};OFFERS;4;623
-e;626;{};OFFERS;4;625
-e;628;{};OFFERS;4;627
-e;630;{};OFFERS;4;629
-e;632;{};OFFERS;4;631
-e;634;{};OFFERS;4;633
-e;636;{};OFFERS;4;635
-e;638;{};OFFERS;4;637
-e;640;{};OFFERS;4;639
-e;642;{};OFFERS;4;641
-e;644;{};OFFERS;4;643
-e;646;{};OFFERS;4;645
-e;648;{};OFFERS;4;647
-e;650;{};OFFERS;4;649
-e;652;{};OFFERS;4;651
-e;654;{};OFFERS;4;653
-e;656;{};OFFERS;4;655
-e;658;{};OFFERS;4;657
-e;660;{};OFFERS;4;659
-e;662;{};OFFERS;4;661
-e;664;{};OFFERS;4;663
-e;666;{};OFFERS;4;665
-e;668;{};OFFERS;4;667
-e;670;{};OFFERS;4;669
-e;672;{};OFFERS;4;671
-e;674;{};OFFERS;4;673
-e;676;{};OFFERS;4;675
-e;678;{};OFFERS;4;677
-e;680;{};OFFERS;4;679
-e;682;{};OFFERS;4;681
-e;684;{};OFFERS;4;683
-e;686;{};OFFERS;4;685
-e;688;{};OFFERS;4;687
-e;690;{};OFFERS;4;689
-e;692;{};OFFERS;4;691
-e;694;{};OFFERS;4;693
-e;696;{};OFFERS;4;695
-e;698;{};OFFERS;4;697
-e;700;{};OFFERS;4;699
-e;702;{};OFFERS;4;701
-e;704;{};OFFERS;4;703
-e;706;{};OFFERS;4;705
-e;708;{};OFFERS;4;707
-e;710;{};OFFERS;4;709
-e;712;{};OFFERS;4;711
-e;714;{};OFFERS;4;713
-e;716;{};OFFERS;4;715
-e;718;{};OFFERS;4;717
-e;720;{};OFFERS;4;719
-e;722;{};OFFERS;4;721
-e;724;{};OFFERS;4;723
-e;726;{};OFFERS;4;725
-e;728;{};OFFERS;4;727
-e;730;{};OFFERS;4;729
-e;732;{};OFFERS;4;731
-e;734;{};OFFERS;4;733
-e;736;{};OFFERS;4;735
-e;738;{};OFFERS;4;737
-e;740;{};OFFERS;4;739
-e;742;{};OFFERS;4;741
-e;744;{};OFFERS;4;743
-e;746;{};OFFERS;4;745
-e;748;{};OFFERS;4;747
-e;750;{};OFFERS;4;749
-e;752;{};OFFERS;4;751
-e;754;{};OFFERS;4;753
-e;756;{};OFFERS;4;755
-e;758;{};OFFERS;4;757
-e;760;{};OFFERS;4;759
-e;762;{};OFFERS;4;761
-e;764;{};OFFERS;4;763
-e;766;{};OFFERS;4;765
-e;768;{};OFFERS;4;767
-e;770;{};OFFERS;4;769
-e;772;{};OFFERS;4;771
-e;774;{};OFFERS;4;773
-e;776;{};OFFERS;4;775
-e;778;{};OFFERS;4;777
-e;780;{};OFFERS;4;779
-e;782;{};OFFERS;4;781
-e;784;{};OFFERS;4;783
-e;786;{};OFFERS;4;785
-e;788;{};OFFERS;4;787
-e;790;{};OFFERS;4;789
-e;792;{};OFFERS;4;791
-e;794;{};OFFERS;4;793
-e;796;{};OFFERS;4;795
-e;798;{};OFFERS;4;797
-e;800;{};OFFERS;4;799
-e;802;{};OFFERS;4;801
-e;804;{};OFFERS;4;803
-e;806;{};OFFERS;4;805
-e;808;{};OFFERS;4;807
-e;810;{};OFFERS;4;809
-e;812;{};OFFERS;4;811
-e;814;{};OFFERS;4;813
-e;816;{};OFFERS;4;815
-e;818;{};OFFERS;4;817
-e;820;{};OFFERS;4;819
-e;822;{};OFFERS;4;821
-e;824;{};OFFERS;4;823
-e;826;{};OFFERS;4;825
-e;828;{};OFFERS;4;827
-e;830;{};OFFERS;4;829
-e;832;{};OFFERS;4;831
-e;834;{};OFFERS;4;833
-e;836;{};OFFERS;4;835
-e;838;{};OFFERS;4;837
-e;840;{};OFFERS;4;839
-e;842;{};OFFERS;4;841
-e;844;{};OFFERS;4;843
-e;846;{};OFFERS;4;845
-e;848;{};OFFERS;4;847
-e;850;{};OFFERS;4;849
-e;852;{};OFFERS;4;851
-e;854;{};OFFERS;4;853
-e;856;{};OFFERS;4;855
-e;858;{};OFFERS;4;857
-e;860;{};OFFERS;4;859
-e;862;{};OFFERS;4;861
-e;864;{};OFFERS;4;863
-e;866;{};OFFERS;4;865
-e;868;{};OFFERS;4;867
-e;870;{};OFFERS;4;869
-e;872;{};OFFERS;4;871
-e;874;{};OFFERS;4;873
-e;876;{};OFFERS;4;875
-e;878;{};OFFERS;4;877
-e;880;{};OFFERS;4;879
-e;882;{};OFFERS;4;881
-e;884;{};OFFERS;4;883
-e;886;{};OFFERS;4;885
-e;888;{};OFFERS;4;887
-e;890;{};OFFERS;4;889
-e;892;{};OFFERS;4;891
-e;894;{};OFFERS;4;893
-e;896;{};OFFERS;4;895
-e;898;{};OFFERS;4;897
-e;900;{};OFFERS;4;899
-e;902;{};OFFERS;4;901
-e;904;{};OFFERS;4;903
-e;906;{};OFFERS;4;905
-e;908;{};OFFERS;4;907
-e;910;{};OFFERS;4;909
-e;912;{};OFFERS;4;911
-e;914;{};OFFERS;4;913
-e;916;{};OFFERS;4;915
-e;918;{};OFFERS;4;917
-e;920;{};OFFERS;4;919
-e;922;{};OFFERS;4;921
-e;924;{};OFFERS;4;923
-e;926;{};OFFERS;4;925
-e;928;{};OFFERS;4;927
-e;930;{};OFFERS;4;929
-e;932;{};OFFERS;4;931
-e;934;{};OFFERS;4;933
-e;936;{};OFFERS;4;935
-e;938;{};OFFERS;4;937
-e;940;{};OFFERS;4;939
-e;942;{};OFFERS;4;941
-e;944;{};OFFERS;4;943
-e;946;{};OFFERS;4;945
-e;948;{};OFFERS;4;947
-e;950;{};OFFERS;4;949
-e;952;{};OFFERS;4;951
-e;954;{};OFFERS;4;953
-e;956;{};OFFERS;4;955
-e;958;{};OFFERS;4;957
-e;960;{};OFFERS;4;959
-e;962;{};OFFERS;4;961
-e;964;{};OFFERS;4;963
-e;966;{};OFFERS;4;965
-e;968;{};OFFERS;4;967
-e;970;{};OFFERS;4;969
-e;972;{};OFFERS;4;971
-e;974;{};OFFERS;4;973
-e;976;{};OFFERS;4;975
-e;978;{};OFFERS;4;977
-e;980;{};OFFERS;4;979
-e;982;{};OFFERS;4;981
-e;984;{};OFFERS;4;983
-e;986;{};OFFERS;4;985
-e;988;{};OFFERS;4;987
-e;990;{};OFFERS;4;989
-e;992;{};OFFERS;4;991
+v;4;{'name': 'Saint Peters Filé de Tilapia sem Espinha', 'description': '1 X 250 g', 'product-pum': '(R$0.0948/gr)'};Product
+v;7;{'name': 'Korin Filé de Tilápia Congelado', 'description': '1 X 450 g', 'product-pum': '(R$0.11/gr)'};Product
+v;10;{'name': 'Damm Filé de Salmão Defumado Congelado em Fatias', 'description': '1 X 80 g', 'product-pum': '(R$0.38/gr)'};Product
+v;13;{'name': 'Damm Carpaccio de Salmão', 'description': '1 X 100 g', 'product-pum': '(R$0.38/gr)'};Product
+v;16;{'name': 'Filé de Truta Refrigerado', 'description': 'Aprox. 450g/ud', 'product-pum': '(R$0.12/gr)'};Product
+v;19;{'name': 'Fider Filé de Tilápia Resfriado', 'description': '1 X 500 g', 'product-pum': '(R$0.0720/gr)'};Product
+v;22;{'name': 'Frescatto Kani Kama Congelado', 'description': '1 X 200 g', 'product-pum': '(R$0.0650/gr)'};Product
+v;25;{'name': 'Kenko Folhas De Alga Marinha Desidratada', 'description': '1 X 27 g', 'product-pum': '(R$1.11/gr)'};Product
+v;28;{'name': 'Frescatto Linguado em Filé Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.12/gr)'};Product
+v;31;{'name': 'Filé Truta Ao Forno', 'description': '1 X 150 g', 'product-pum': '(R$0.16/gr)'};Product
+v;34;{'name': 'Salmao Medalhao Congelado Damm 480 G', 'description': '1 X 480 g', 'product-pum': '(R$0.16/gr)'};Product
+v;37;{'name': 'Qualitá Camarão Descascado Cozido e Sem Cauda Congelado', 'description': '1 X 200 g', 'product-pum': '(R$0.15/gr)'};Product
+v;40;{'name': 'Brazilian Fish Pedaços de Filé de Tilápia', 'description': '1 X 300 g', 'product-pum': '(R$0.0667/gr)'};Product
+v;43;{'name': 'Riberalves Postas de Bacalhau Dessalgado', 'description': '1 X 800 g', 'product-pum': '(R$0.0999/gr)'};Product
+v;46;{'name': 'Cam Cz Coz Evisc 2640 Fisgo', 'description': '1 X 350 g', 'product-pum': '(R$0.21/gr)'};Product
+v;49;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'product-pum': '(R$0.0665/gr)'};Product
+v;52;{'name': 'Coqueiro Patê de Atum Light', 'description': '1 X 170 g', 'product-pum': '(R$0.0588/gr)'};Product
+v;55;{'name': 'Octopus Polvo Resfriado', 'description': 'A partir de 200g', 'product-pum': '(R$0.12/gr)'};Product
+v;58;{'name': 'Damm Hambúrguer de Salmão', 'description': '1 X 360 g', 'product-pum': '(R$0.0972/gr)'};Product
+v;61;{'name': 'Fisgo Camarão Cinza Cozido Eviscerado', 'description': '1 X 350 g', 'product-pum': '(R$0.16/gr)'};Product
+v;64;{'name': 'Camarão Médio Qualitá ', 'description': '1 X 400 g', 'product-pum': '(R$0.13/gr)'};Product
+v;67;{'name': 'Damm Salmão Congelado em Filé com Pele', 'description': '1 X 800 g', 'product-pum': '(R$0.14/gr)'};Product
+v;70;{'name': 'Coqueiro Atum em Pedaços ', 'description': '1 X 170 g', 'product-pum': '(R$0.0782/gr)'};Product
+v;73;{'name': 'Tours Atum Pedaços com Óleo Comestível e Salmoura', 'description': '1 X 180 g', 'product-pum': '(R$0.11/gr)'};Product
+v;76;{'name': 'Seara Empanado De Soja Em Iscas De Peixe', 'description': '1 X 300 g', 'product-pum': '(R$0.0590/gr)'};Product
+v;79;{'name': 'Qualitá Salmão em Pedaços', 'description': '1 X 500 g', 'product-pum': '(R$0.14/gr)'};Product
+v;82;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'product-pum': '(R$0.0874/gr)'};Product
+v;85;{'name': 'Riberalves Bacalhau Lombo Dessalgado Morhua', 'description': '1 X 1 Kg', 'product-pum': '(R$159.90/kg)'};Product
+v;88;{'name': 'Edomae Yakinori Alga Marinha Kosher', 'description': '1 X 25 g', 'product-pum': '(R$1.74/gr)'};Product
+v;91;{'name': 'Noronha Filé Merluza Argentina Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0437/gr)'};Product
+v;94;{'name': 'Incrível! Filé de Peixe Empanado Vegano ', 'description': '1 X 220 g', 'product-pum': '(R$0.0795/gr)'};Product
+v;97;{'name': 'Riberalves Lombo De Bacalhau Dessalgado Congelado', 'description': '1 X 1 Kg', 'product-pum': '(R$169.90/kg)'};Product
+v;100;{'name': 'Fisgo Camarão Cinza Descascado Eviscerado Congelado', 'description': '1 X 350 g', 'product-pum': '(R$0.17/gr)'};Product
+v;103;{'name': 'Korin Filés de Truta Congelados', 'description': '1 X 500 g', 'product-pum': '(R$0.13/gr)'};Product
+v;106;{'name': 'Hossomaki De Atum', 'description': '1 X 140 g', 'product-pum': '(R$0.1000/gr)'};Product
+v;109;{'name': 'Gomes da Costa Filé de Sardinha em Óleo com Limão', 'description': '1 X 125 g', 'product-pum': '(R$0.11/gr)'};Product
+v;112;{'name': 'Iogurte Líquido Zero Lactose Corpus Amora E Maracujá 800G', 'description': '1 X 800 g', 'product-pum': '(R$0.0207/gr)'};Product
+v;115;{'name': 'Qualitá Lombo Bacalhau Dessalgado Porto', 'description': '1 X 800 g', 'product-pum': '(R$0.14/gr)'};Product
+v;118;{'name': 'Riberalves Polaca Do Alasca Dessalgada Desfiada', 'description': '1 X 500 g', 'product-pum': '(R$0.0614/gr)'};Product
+v;121;{'name': 'Riberalves Bacalhau da Casa', 'description': '1 X 300 g', 'product-pum': '(R$0.1000/gr)'};Product
+v;124;{'name': 'Páprica Defumada Br Spices', 'description': '1 X 45 g', 'product-pum': '(R$0.50/gr)'};Product
+v;127;{'name': 'Taequi Tambaqui Posta Tilápia', 'description': '1 X 800 g', 'product-pum': '(R$0.0575/gr)'};Product
+v;130;{'name': 'Ramirez Bacalhau Português Azeite E Alho', 'description': '1 X 120 g', 'product-pum': '(R$0.37/gr)'};Product
+v;133;{'name': 'Korin Filé Porcionados de Truta Rosa com Pele', 'description': '1 X 350 g', 'product-pum': '(R$0.20/gr)'};Product
+v;136;{'name': 'Ramirez Atum Em Posta', 'description': '1 X 120 g', 'product-pum': '(R$0.15/gr)'};Product
+v;139;{'name': 'Ramirez Filé de Sardinha em Azeite com Azeitonas', 'description': '1 X 70 g', 'product-pum': '(R$0.28/gr)'};Product
+v;142;{'name': 'Qualitá Camarão Pequeno Descascado Cozido Congelado', 'description': '1 X 400 g', 'product-pum': '(R$0.17/gr)'};Product
+v;145;{'name': 'Bacalanor Peixe Salgado Polaca Pedaço', 'description': '1 X 800 g', 'product-pum': '(R$0.0500/gr)'};Product
+v;148;{'name': 'Fisgo Camaro sem cabea Cozido 3044', 'description': '1 X 350 g', 'product-pum': '(R$0.16/gr)'};Product
+v;151;{'name': 'Lombo de Bacalhau Dessalgado Congelado', 'description': '1 X 1000 g', 'product-pum': '(R$0.14/gr)'};Product
+v;154;{'name': 'Bom Peixe Vieira Peruana Congelada', 'description': '1 X 200 g', 'product-pum': '(R$0.38/gr)'};Product
+v;157;{'name': 'Petalo Nugget de Panga', 'description': '1 X 400 g', 'product-pum': '(R$0.0618/gr)'};Product
+v;160;{'name': 'Ceviche Oriental Peixe Branco', 'description': '1 X 150 g', 'product-pum': '(R$0.12/gr)'};Product
+v;163;{'name': 'Qualitá Filé de Tilápia Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0629/gr)'};Product
+v;166;{'name': 'Damm Kani Kama à Vácuo', 'description': '1 X 250 g', 'product-pum': '(R$0.0920/gr)'};Product
+v;279;{'name': 'Copacol Filé de Peixe Tilápia Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0532/gr)'};Product
+v;282;{'name': 'Copacol Posta de Tilápia Congelada', 'description': '1 X 800 g', 'product-pum': '(R$0.0250/gr)'};Product
+v;285;{'name': 'O Pescador Peixe Pescada Espalmada ', 'description': '1 X 800 g', 'product-pum': '(R$0.0187/gr)'};Product
+v;288;{'name': 'Copacol Stick de Tilápia Empanado', 'description': '1 X 2 Kg', 'product-pum': '(R$16.75/kg)'};Product
+v;291;{'name': 'C Vale Posta Tilapia Iqf', 'description': '1 X 800 g', 'product-pum': '(R$0.0257/gr)'};Product
+v;294;{'name': 'Bom Peixe Peixe Porco Congelada', 'description': '1 X 500 g', 'product-pum': '(R$0.0250/gr)'};Product
+v;297;{'name': 'Bacalanor Filé De Polaca Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0310/gr)'};Product
+v;300;{'name': 'Aurora Posta de Tilápia ', 'description': '1 X 1 Kg', 'product-pum': '(R$22.70/kg)'};Product
+v;305;{'name': 'O Pescador Filé de Congelado Merluza ', 'description': '1 X 800 g', 'product-pum': '(R$0.0344/gr)'};Product
+v;308;{'name': 'Costa Sul Filé de Peixe Pescada Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0410/gr)'};Product
+v;311;{'name': 'Coqueiro Atum Ralado em Óleo', 'description': '1 X 170 g', 'product-pum': '(R$0.0470/gr)'};Product
+v;314;{'name': 'C-vale Filé de Tilápia', 'description': '1 X 800 g', 'product-pum': '(R$0.0488/gr)'};Product
+v;317;{'name': 'Copacol Costelinha de Tilapia Congelada', 'description': 'Aprox. 600g/ud', 'product-pum': '(R$0.0189/gr)'};Product
+v;320;{'name': 'Bom Peixe Filé Merluza Peixe Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0660/gr)'};Product
+v;323;{'name': 'Bom Peixe Sardinha Evis', 'description': '1 X 800 g', 'product-pum': '(R$0.0142/gr)'};Product
+v;326;{'name': 'Pescador Peixe Manjubinha', 'description': '1 X 1 Und', 'product-pum': '(R$12.79/und)'};Product
+v;331;{'name': 'Bom Peixe Piramutaba Sem Pele Posta Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0204/gr)'};Product
+v;334;{'name': 'Yaki Nori Yari Algas Marinhas 10 Folhas', 'description': '1 X 25 g', 'product-pum': '(R$0.74/gr)'};Product
+v;337;{'name': 'Gomes Da Costa Atum Ralado Em Óleo Pouch', 'description': '1 X 500 g', 'product-pum': '(R$0.0438/gr)'};Product
+v;340;{'name': 'Pescador Filé Pescada', 'description': '1 X 1 Und', 'product-pum': '(R$26.50/und)'};Product
+v;343;{'name': 'Gomes Da Costa Atum em Pedaços', 'description': '1 X 500 g', 'product-pum': '(R$0.0610/gr)'};Product
+v;346;{'name': 'Maris Camarão Descascado Cozido', 'description': '1 X 400 g', 'product-pum': '(R$0.13/gr)'};Product
+v;349;{'name': 'Aurora Filé de Tilápia Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0437/gr)'};Product
+v;352;{'name': 'Bom Peixe Posta Cação sem Pele Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0238/gr)'};Product
+v;355;{'name': 'Copacol Filé de Tilápia Empanado', 'description': '1 X 400 g', 'product-pum': '(R$0.0688/gr)'};Product
+v;358;{'name': 'Costa Sul Filé de Salmão Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.12/gr)'};Product
+v;361;{'name': 'Komdelli Salmao Posta', 'description': '1 X 800 g', 'product-pum': '(R$0.0594/gr)'};Product
+v;364;{'name': 'Costa Sul Peixe Porco Evisc Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0124/gr)'};Product
+v;369;{'name': 'Costa Sul Pescados Sardinha Laje Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0210/gr)'};Product
+v;372;{'name': 'Brasmar Bacalhau Dessalgado Congelado', 'description': '1 X 450 g', 'product-pum': '(R$0.0712/gr)'};Product
+v;375;{'name': 'Pescador Peixe Sardinha Espalmada', 'description': '1 X 1 Und', 'product-pum': '(R$10.60/und)'};Product
+v;378;{'name': 'Cellier Atum Pedaços em Óleo Comestível com Caldo Vegetal', 'description': '1 X 500 g', 'product-pum': '(R$0.0518/gr)'};Product
+v;381;{'name': 'Brasmar Posta Saithe', 'description': '1 X 800 g', 'product-pum': '(R$0.0363/gr)'};Product
+v;384;{'name': 'Brasmar Lombo De Saithe Desossado Congelado', 'description': '1 X 1 Kg', 'product-pum': '(R$72.90/kg)'};Product
+v;387;{'name': 'Aurora Filé de Tilápia com Manteiga e Limão Bem Leve', 'description': '1 X 310 g', 'product-pum': '(R$0.0888/gr)'};Product
+v;390;{'name': 'Brasmar Lombo Bacalhau Do Porto', 'description': '1 X 1 Kg', 'product-pum': '(R$104.00/kg)'};Product
+v;393;{'name': 'Oceani Posta de Cação sem Pele Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0262/gr)'};Product
+v;396;{'name': 'Filé de Cascudinho do Mar Congelado sem Pele Costa Sul Pacote 500g', 'description': '1 X 500 g', 'product-pum': '(R$0.0346/gr)'};Product
+e;5;{'price': 'R$ 23,69'};OFFERS;1;4
+e;8;{'price': 'R$ 49,69'};OFFERS;1;7
+e;11;{'price': 'R$ 29,99'};OFFERS;1;10
+e;14;{'price': 'R$ 37,69'};OFFERS;1;13
+e;17;{'price': 'R$ 49,95/u'};OFFERS;1;16
+e;20;{'price': 'R$ 35,99'};OFFERS;1;19
+e;23;{'price': 'R$ 12,99'};OFFERS;1;22
+e;26;{'price': 'R$ 29,79'};OFFERS;1;25
+e;29;{'price': 'R$ 59,99'};OFFERS;1;28
+e;32;{'price': 'R$ 23,69'};OFFERS;1;31
+e;35;{'price': 'R$ 76,99'};OFFERS;1;34
+e;38;{'price': 'R$ 29,90'};OFFERS;1;37
+e;41;{'price': 'R$ 19,99'};OFFERS;1;40
+e;44;{'price': 'R$ 79,90'};OFFERS;1;43
+e;47;{'price': 'R$ 71,90'};OFFERS;1;46
+e;50;{'price': 'R$ 11,29'};OFFERS;1;49
+e;53;{'price': 'R$ 9,99'};OFFERS;1;52
+e;56;{'price': 'R$ 114,99/kg'};OFFERS;1;55
+e;59;{'price': 'R$ 34,99'};OFFERS;1;58
+e;62;{'price': 'R$ 53,99'};OFFERS;1;61
+e;65;{'price': 'R$ 49,90'};OFFERS;1;64
+e;68;{'price': 'R$ 110,99'};OFFERS;1;67
+e;71;{'price': 'R$ 13,29'};OFFERS;1;70
+e;74;{'price': 'R$ 19,29'};OFFERS;1;73
+e;77;{'price': 'R$ 17,69'};OFFERS;1;76
+e;80;{'price': 'R$ 65,99'};OFFERS;1;79
+e;83;{'price': 'R$ 69,90'};OFFERS;1;82
+e;86;{'price': 'R$ 159,90'};OFFERS;1;85
+e;89;{'price': 'R$ 43,49'};OFFERS;1;88
+e;92;{'price': 'R$ 34,90'};OFFERS;1;91
+e;95;{'price': 'R$ 17,49'};OFFERS;1;94
+e;98;{'price': 'R$ 169,90'};OFFERS;1;97
+e;101;{'price': 'R$ 58,99'};OFFERS;1;100
+e;104;{'price': 'R$ 64,90'};OFFERS;1;103
+e;107;{'price': 'R$ 13,99'};OFFERS;1;106
+e;110;{'price': 'R$ 12,79'};OFFERS;1;109
+e;113;{'price': 'R$ 16,49'};OFFERS;1;112
+e;116;{'price': 'R$ 109,90'};OFFERS;1;115
+e;119;{'price': 'R$ 30,69'};OFFERS;1;118
+e;122;{'price': 'R$ 29,99'};OFFERS;1;121
+e;125;{'price': 'R$ 22,49'};OFFERS;1;124
+e;128;{'price': 'R$ 45,99'};OFFERS;1;127
+e;131;{'price': 'R$ 43,29'};OFFERS;1;130
+e;134;{'price': 'R$ 69,90'};OFFERS;1;133
+e;137;{'price': 'R$ 17,49'};OFFERS;1;136
+e;140;{'price': 'R$ 19,29'};OFFERS;1;139
+e;143;{'price': 'R$ 64,90'};OFFERS;1;142
+e;146;{'price': 'R$ 39,99'};OFFERS;1;145
+e;149;{'price': 'R$ 54,90'};OFFERS;1;148
+e;152;{'price': 'R$ 139,90'};OFFERS;1;151
+e;155;{'price': 'R$ 75,99'};OFFERS;1;154
+e;158;{'price': 'R$ 24,69'};OFFERS;1;157
+e;161;{'price': 'R$ 16,99'};OFFERS;1;160
+e;164;{'price': 'R$ 31,43'};OFFERS;1;163
+e;167;{'price': 'R$ 22,99'};OFFERS;1;166
+e;169;{'price': 'R$ 23,69'};OFFERS;2;4
+e;171;{'price': 'R$ 49,69'};OFFERS;2;7
+e;173;{'price': 'R$ 29,99'};OFFERS;2;10
+e;175;{'price': 'R$ 37,69'};OFFERS;2;13
+e;177;{'price': 'R$ 49,95/u'};OFFERS;2;16
+e;179;{'price': 'R$ 35,99'};OFFERS;2;19
+e;181;{'price': 'R$ 12,99'};OFFERS;2;22
+e;183;{'price': 'R$ 29,79'};OFFERS;2;25
+e;185;{'price': 'R$ 59,99'};OFFERS;2;28
+e;187;{'price': 'R$ 23,69'};OFFERS;2;31
+e;189;{'price': 'R$ 76,99'};OFFERS;2;34
+e;191;{'price': 'R$ 29,90'};OFFERS;2;37
+e;193;{'price': 'R$ 19,99'};OFFERS;2;40
+e;195;{'price': 'R$ 79,90'};OFFERS;2;43
+e;197;{'price': 'R$ 71,90'};OFFERS;2;46
+e;199;{'price': 'R$ 11,29'};OFFERS;2;49
+e;201;{'price': 'R$ 9,99'};OFFERS;2;52
+e;203;{'price': 'R$ 114,99/kg'};OFFERS;2;55
+e;205;{'price': 'R$ 34,99'};OFFERS;2;58
+e;207;{'price': 'R$ 53,99'};OFFERS;2;61
+e;209;{'price': 'R$ 49,90'};OFFERS;2;64
+e;211;{'price': 'R$ 110,99'};OFFERS;2;67
+e;213;{'price': 'R$ 13,29'};OFFERS;2;70
+e;215;{'price': 'R$ 19,29'};OFFERS;2;73
+e;217;{'price': 'R$ 17,69'};OFFERS;2;76
+e;219;{'price': 'R$ 65,99'};OFFERS;2;79
+e;221;{'price': 'R$ 69,90'};OFFERS;2;82
+e;223;{'price': 'R$ 159,90'};OFFERS;2;85
+e;225;{'price': 'R$ 43,49'};OFFERS;2;88
+e;227;{'price': 'R$ 34,90'};OFFERS;2;91
+e;229;{'price': 'R$ 17,49'};OFFERS;2;94
+e;231;{'price': 'R$ 169,90'};OFFERS;2;97
+e;233;{'price': 'R$ 58,99'};OFFERS;2;100
+e;235;{'price': 'R$ 64,90'};OFFERS;2;103
+e;237;{'price': 'R$ 13,99'};OFFERS;2;106
+e;239;{'price': 'R$ 12,79'};OFFERS;2;109
+e;241;{'price': 'R$ 16,49'};OFFERS;2;112
+e;243;{'price': 'R$ 109,90'};OFFERS;2;115
+e;245;{'price': 'R$ 30,69'};OFFERS;2;118
+e;247;{'price': 'R$ 29,99'};OFFERS;2;121
+e;249;{'price': 'R$ 22,49'};OFFERS;2;124
+e;251;{'price': 'R$ 45,99'};OFFERS;2;127
+e;253;{'price': 'R$ 43,29'};OFFERS;2;130
+e;255;{'price': 'R$ 69,90'};OFFERS;2;133
+e;257;{'price': 'R$ 17,49'};OFFERS;2;136
+e;259;{'price': 'R$ 19,29'};OFFERS;2;139
+e;261;{'price': 'R$ 64,90'};OFFERS;2;142
+e;263;{'price': 'R$ 39,99'};OFFERS;2;145
+e;265;{'price': 'R$ 54,90'};OFFERS;2;148
+e;267;{'price': 'R$ 139,90'};OFFERS;2;151
+e;269;{'price': 'R$ 75,99'};OFFERS;2;154
+e;271;{'price': 'R$ 24,69'};OFFERS;2;157
+e;273;{'price': 'R$ 16,99'};OFFERS;2;160
+e;275;{'price': 'R$ 31,43'};OFFERS;2;163
+e;277;{'price': 'R$ 22,99'};OFFERS;2;166
+e;280;{'price': 'R$ 42,50'};OFFERS;2;279
+e;283;{'price': 'R$ 19,98'};OFFERS;2;282
+e;286;{'price': 'R$ 14,90'};OFFERS;2;285
+e;289;{'price': 'R$ 33,50'};OFFERS;2;288
+e;292;{'price': 'R$ 20,50'};OFFERS;2;291
+e;295;{'price': 'R$ 12,50'};OFFERS;2;294
+e;298;{'price': 'R$ 15,50'};OFFERS;2;297
+e;301;{'price': 'R$ 22,70'};OFFERS;2;300
+e;303;{'price': 'R$ 8,20'};OFFERS;2;49
+e;306;{'price': 'R$ 27,50'};OFFERS;2;305
+e;309;{'price': 'R$ 20,50'};OFFERS;2;308
+e;312;{'price': 'R$ 7,99'};OFFERS;2;311
+e;315;{'price': 'R$ 39,00'};OFFERS;2;314
+e;318;{'price': 'R$ 11,34/u'};OFFERS;2;317
+e;321;{'price': 'R$ 33,00'};OFFERS;2;320
+e;324;{'price': 'R$ 11,30'};OFFERS;2;323
+e;327;{'price': 'R$ 12,79'};OFFERS;2;326
+e;329;{'price': 'R$ 12,80'};OFFERS;2;94
+e;332;{'price': 'R$ 10,20'};OFFERS;2;331
+e;335;{'price': 'R$ 18,40'};OFFERS;2;334
+e;338;{'price': 'R$ 21,90'};OFFERS;2;337
+e;341;{'price': 'R$ 26,50'};OFFERS;2;340
+e;344;{'price': 'R$ 30,50'};OFFERS;2;343
+e;347;{'price': 'R$ 50,50'};OFFERS;2;346
+e;350;{'price': 'R$ 34,90'};OFFERS;2;349
+e;353;{'price': 'R$ 11,90'};OFFERS;2;352
+e;356;{'price': 'R$ 27,50'};OFFERS;2;355
+e;359;{'price': 'R$ 58,00'};OFFERS;2;358
+e;362;{'price': 'R$ 47,50'};OFFERS;2;361
+e;365;{'price': 'R$ 9,90'};OFFERS;2;364
+e;367;{'price': 'R$ 49,98'};OFFERS;2;82
+e;370;{'price': 'R$ 16,80'};OFFERS;2;369
+e;373;{'price': 'R$ 32,00'};OFFERS;2;372
+e;376;{'price': 'R$ 10,60'};OFFERS;2;375
+e;379;{'price': 'R$ 25,90'};OFFERS;2;378
+e;382;{'price': 'R$ 29,00'};OFFERS;2;381
+e;385;{'price': 'R$ 72,90'};OFFERS;2;384
+e;388;{'price': 'R$ 27,50'};OFFERS;2;387
+e;391;{'price': 'R$ 104,00'};OFFERS;2;390
+e;394;{'price': 'R$ 20,90'};OFFERS;2;393
+e;397;{'price': 'R$ 17,30'};OFFERS;2;396

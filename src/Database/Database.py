@@ -15,7 +15,7 @@ class Database:
         vertices = []
         edges = []
         
-        with open("src/graph_vertices_and_edges.txt", 'r') as file:
+        with open("graph_vertices_and_edges.txt", 'r') as file:
             
             with conn.cursor() as cursor:
             
@@ -47,9 +47,9 @@ class Database:
                             try:
                                 cursor.execute("""
                                             SELECT * FROM cypher(%s, $$
-                                                CREATE (n:Product {id: %s, name: %s, description: %s, price: %s})
+                                                CREATE (n:Product {id: %s, name: %s, description: %s})
                                             $$) AS (a agtype);
-                                            """, (GRAPH_NAME, vertex_id, vertex_data['name'], vertex_data['description'], vertex_data['price']))
+                                            """, (GRAPH_NAME, vertex_id, vertex_data['name'], vertex_data['description']))
                                 conn.commit()
                             
                             except Exception as ex:
@@ -69,9 +69,9 @@ class Database:
                                 cursor.execute("""
                                                SELECT * FROM cypher(%s, $$
                                                    MATCH (a:Wholesaler {id: %s}), (b:Product {id: %s})
-                                                   CREATE (a)-[e:OFFERS {id: %s}]->(b)
+                                                   CREATE (a)-[e:OFFERS {id: %s, price: %s}]->(b)
                                                $$) AS (edge agtype);
-                                               """, (GRAPH_NAME, source_vertex_id, target_vertex_id, edge_id))
+                                               """, (GRAPH_NAME, source_vertex_id, target_vertex_id, edge_id, edge_data['price']))
                                 conn.commit()
                                 
                             except Exception as ex:

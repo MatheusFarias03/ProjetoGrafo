@@ -68,7 +68,8 @@ def webscraping_insertion():
     wholesalers_vertices = rappi_scraper.get_wholesalers_vertices(id_num=id_num)
     for v in wholesalers_vertices:
         graph.add_vertex(v)
-        
+    
+    id_num += len(wholesalers_vertices)
     graph.show_adj_matrix()
     
     rappi_scraper.get_wholesalers_fish(wholesalers_vertices, id_num, graph)

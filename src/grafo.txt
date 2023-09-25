@@ -1,0 +1,666 @@
+v;1;{'name': 'Barateiro', 'link': 'https://www.rappi.com.br/lojas/900657893-pao-de-azucar-barateiro-nc'};Wholesaler
+v;2;{'name': 'ASSAI ATACADISTA', 'link': 'https://www.rappi.com.br/lojas/900637187-assaiatacadista-nc'};Wholesaler
+v;3;{'name': 'Atacadão', 'link': 'https://www.rappi.com.br/lojas/900648056-atacadao'};Wholesaler
+v;4;{'name': "Sam's Club", 'link': 'https://www.rappi.com.br/lojas/900198813-sams-club'};Wholesaler
+v;6;{'name': 'Saint Peters Filé de Tilapia sem Espinha', 'description': '1 X 250 g', 'product-pum': '(R$0.0948/gr)'};Product
+v;9;{'name': 'Korin Filé de Tilápia Congelado', 'description': '1 X 450 g', 'product-pum': '(R$0.11/gr)'};Product
+v;12;{'name': 'Damm Filé de Salmão Defumado Congelado em Fatias', 'description': '1 X 80 g', 'product-pum': '(R$0.38/gr)'};Product
+v;15;{'name': 'Damm Carpaccio de Salmão', 'description': '1 X 100 g', 'product-pum': '(R$0.38/gr)'};Product
+v;18;{'name': 'Filé de Truta Refrigerado', 'description': 'Aprox. 450g/ud', 'product-pum': '(R$0.12/gr)'};Product
+v;21;{'name': 'Fider Filé de Tilápia Resfriado', 'description': '1 X 500 g', 'product-pum': '(R$0.0720/gr)'};Product
+v;24;{'name': 'Frescatto Kani Kama Congelado', 'description': '1 X 200 g', 'product-pum': '(R$0.0650/gr)'};Product
+v;27;{'name': 'Kenko Folhas De Alga Marinha Desidratada', 'description': '1 X 27 g', 'product-pum': '(R$1.11/gr)'};Product
+v;30;{'name': 'Frescatto Linguado em Filé Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.12/gr)'};Product
+v;33;{'name': 'Filé Truta Ao Forno', 'description': '1 X 150 g', 'product-pum': '(R$0.16/gr)'};Product
+v;36;{'name': 'Salmao Medalhao Congelado Damm 480 G', 'description': '1 X 480 g', 'product-pum': '(R$0.16/gr)'};Product
+v;39;{'name': 'Qualitá Camarão Descascado Cozido e Sem Cauda Congelado', 'description': '1 X 200 g', 'product-pum': '(R$0.15/gr)'};Product
+v;42;{'name': 'Brazilian Fish Pedaços de Filé de Tilápia', 'description': '1 X 300 g', 'product-pum': '(R$0.0667/gr)'};Product
+v;45;{'name': 'Riberalves Postas de Bacalhau Dessalgado', 'description': '1 X 800 g', 'product-pum': '(R$0.0999/gr)'};Product
+v;48;{'name': 'Cam Cz Coz Evisc 2640 Fisgo', 'description': '1 X 350 g', 'product-pum': '(R$0.21/gr)'};Product
+v;51;{'name': 'Robinson Crusoe Atum Pedaços em Óleo', 'description': '1 X 170 g', 'product-pum': '(R$0.0665/gr)'};Product
+v;54;{'name': 'Coqueiro Patê de Atum Light', 'description': '1 X 170 g', 'product-pum': '(R$0.0588/gr)'};Product
+v;57;{'name': 'Octopus Polvo Resfriado', 'description': 'A partir de 200g', 'product-pum': '(R$0.12/gr)'};Product
+v;60;{'name': 'Damm Hambúrguer de Salmão', 'description': '1 X 360 g', 'product-pum': '(R$0.0972/gr)'};Product
+v;63;{'name': 'Fisgo Camarão Cinza Cozido Eviscerado', 'description': '1 X 350 g', 'product-pum': '(R$0.16/gr)'};Product
+v;66;{'name': 'Camarão Médio Qualitá ', 'description': '1 X 400 g', 'product-pum': '(R$0.13/gr)'};Product
+v;69;{'name': 'Damm Salmão Congelado em Filé com Pele', 'description': '1 X 800 g', 'product-pum': '(R$0.14/gr)'};Product
+v;72;{'name': 'Coqueiro Atum em Pedaços ', 'description': '1 X 170 g', 'product-pum': '(R$0.0782/gr)'};Product
+v;75;{'name': 'Tours Atum Pedaços com Óleo Comestível e Salmoura', 'description': '1 X 180 g', 'product-pum': '(R$0.11/gr)'};Product
+v;78;{'name': 'Seara Empanado De Soja Em Iscas De Peixe', 'description': '1 X 300 g', 'product-pum': '(R$0.0590/gr)'};Product
+v;81;{'name': 'Qualitá Salmão em Pedaços', 'description': '1 X 500 g', 'product-pum': '(R$0.14/gr)'};Product
+v;84;{'name': 'Brasmar Posta de Bacalhau Dessalgada Congelada', 'description': '1 X 800 g', 'product-pum': '(R$0.0874/gr)'};Product
+v;87;{'name': 'Riberalves Bacalhau Lombo Dessalgado Morhua', 'description': '1 X 1 Kg', 'product-pum': '(R$159.90/kg)'};Product
+v;90;{'name': 'Edomae Yakinori Alga Marinha Kosher', 'description': '1 X 25 g', 'product-pum': '(R$1.74/gr)'};Product
+v;93;{'name': 'Noronha Filé Merluza Argentina Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0437/gr)'};Product
+v;96;{'name': 'Incrível! Filé de Peixe Empanado Vegano ', 'description': '1 X 220 g', 'product-pum': '(R$0.0795/gr)'};Product
+v;99;{'name': 'Riberalves Lombo De Bacalhau Dessalgado Congelado', 'description': '1 X 1 Kg', 'product-pum': '(R$169.90/kg)'};Product
+v;102;{'name': 'Fisgo Camarão Cinza Descascado Eviscerado Congelado', 'description': '1 X 350 g', 'product-pum': '(R$0.17/gr)'};Product
+v;105;{'name': 'Korin Filés de Truta Congelados', 'description': '1 X 500 g', 'product-pum': '(R$0.13/gr)'};Product
+v;108;{'name': 'Hossomaki De Atum', 'description': '1 X 140 g', 'product-pum': '(R$0.1000/gr)'};Product
+v;111;{'name': 'Gomes da Costa Filé de Sardinha em Óleo com Limão', 'description': '1 X 125 g', 'product-pum': '(R$0.11/gr)'};Product
+v;114;{'name': 'Iogurte Líquido Zero Lactose Corpus Amora E Maracujá 800G', 'description': '1 X 800 g', 'product-pum': '(R$0.0207/gr)'};Product
+v;117;{'name': 'Qualitá Lombo Bacalhau Dessalgado Porto', 'description': '1 X 800 g', 'product-pum': '(R$0.14/gr)'};Product
+v;120;{'name': 'Riberalves Polaca Do Alasca Dessalgada Desfiada', 'description': '1 X 500 g', 'product-pum': '(R$0.0614/gr)'};Product
+v;123;{'name': 'Riberalves Bacalhau da Casa', 'description': '1 X 300 g', 'product-pum': '(R$0.1000/gr)'};Product
+v;126;{'name': 'Páprica Defumada Br Spices', 'description': '1 X 45 g', 'product-pum': '(R$0.50/gr)'};Product
+v;129;{'name': 'Taequi Tambaqui Posta Tilápia', 'description': '1 X 800 g', 'product-pum': '(R$0.0575/gr)'};Product
+v;132;{'name': 'Ramirez Bacalhau Português Azeite E Alho', 'description': '1 X 120 g', 'product-pum': '(R$0.37/gr)'};Product
+v;135;{'name': 'Korin Filé Porcionados de Truta Rosa com Pele', 'description': '1 X 350 g', 'product-pum': '(R$0.20/gr)'};Product
+v;138;{'name': 'Ramirez Atum Em Posta', 'description': '1 X 120 g', 'product-pum': '(R$0.15/gr)'};Product
+v;141;{'name': 'Ramirez Filé de Sardinha em Azeite com Azeitonas', 'description': '1 X 70 g', 'product-pum': '(R$0.28/gr)'};Product
+v;144;{'name': 'Qualitá Camarão Pequeno Descascado Cozido Congelado', 'description': '1 X 400 g', 'product-pum': '(R$0.17/gr)'};Product
+v;147;{'name': 'Bacalanor Peixe Salgado Polaca Pedaço', 'description': '1 X 800 g', 'product-pum': '(R$0.0500/gr)'};Product
+v;150;{'name': 'Fisgo Camaro sem cabea Cozido 3044', 'description': '1 X 350 g', 'product-pum': '(R$0.16/gr)'};Product
+v;153;{'name': 'Lombo de Bacalhau Dessalgado Congelado', 'description': '1 X 1000 g', 'product-pum': '(R$0.14/gr)'};Product
+v;156;{'name': 'Bom Peixe Vieira Peruana Congelada', 'description': '1 X 200 g', 'product-pum': '(R$0.38/gr)'};Product
+v;159;{'name': 'Petalo Nugget de Panga', 'description': '1 X 400 g', 'product-pum': '(R$0.0618/gr)'};Product
+v;162;{'name': 'Ceviche Oriental Peixe Branco', 'description': '1 X 150 g', 'product-pum': '(R$0.12/gr)'};Product
+v;165;{'name': 'Qualitá Filé de Tilápia Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0629/gr)'};Product
+v;168;{'name': 'Damm Kani Kama à Vácuo', 'description': '1 X 250 g', 'product-pum': '(R$0.0920/gr)'};Product
+v;281;{'name': 'Copacol Filé de Peixe Tilápia Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0532/gr)'};Product
+v;284;{'name': 'Copacol Posta de Tilápia Congelada', 'description': '1 X 800 g', 'product-pum': '(R$0.0250/gr)'};Product
+v;287;{'name': 'O Pescador Peixe Pescada Espalmada ', 'description': '1 X 800 g', 'product-pum': '(R$0.0187/gr)'};Product
+v;290;{'name': 'Copacol Stick de Tilápia Empanado', 'description': '1 X 2 Kg', 'product-pum': '(R$16.75/kg)'};Product
+v;293;{'name': 'C Vale Posta Tilapia Iqf', 'description': '1 X 800 g', 'product-pum': '(R$0.0257/gr)'};Product
+v;296;{'name': 'Bom Peixe Peixe Porco Congelada', 'description': '1 X 500 g', 'product-pum': '(R$0.0250/gr)'};Product
+v;299;{'name': 'Bacalanor Filé De Polaca Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0310/gr)'};Product
+v;302;{'name': 'Aurora Posta de Tilápia ', 'description': '1 X 1 Kg', 'product-pum': '(R$22.70/kg)'};Product
+v;307;{'name': 'O Pescador Filé de Congelado Merluza ', 'description': '1 X 800 g', 'product-pum': '(R$0.0344/gr)'};Product
+v;310;{'name': 'Costa Sul Filé de Peixe Pescada Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0410/gr)'};Product
+v;313;{'name': 'Coqueiro Atum Ralado em Óleo', 'description': '1 X 170 g', 'product-pum': '(R$0.0470/gr)'};Product
+v;316;{'name': 'C-vale Filé de Tilápia', 'description': '1 X 800 g', 'product-pum': '(R$0.0488/gr)'};Product
+v;319;{'name': 'Copacol Costelinha de Tilapia Congelada', 'description': 'Aprox. 600g/ud', 'product-pum': '(R$0.0189/gr)'};Product
+v;322;{'name': 'Bom Peixe Filé Merluza Peixe Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0660/gr)'};Product
+v;325;{'name': 'Bom Peixe Sardinha Evis', 'description': '1 X 800 g', 'product-pum': '(R$0.0142/gr)'};Product
+v;328;{'name': 'Pescador Peixe Manjubinha', 'description': '1 X 1 Und', 'product-pum': '(R$12.79/und)'};Product
+v;333;{'name': 'Bom Peixe Piramutaba Sem Pele Posta Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0204/gr)'};Product
+v;336;{'name': 'Yaki Nori Yari Algas Marinhas 10 Folhas', 'description': '1 X 25 g', 'product-pum': '(R$0.74/gr)'};Product
+v;339;{'name': 'Gomes Da Costa Atum Ralado Em Óleo Pouch', 'description': '1 X 500 g', 'product-pum': '(R$0.0438/gr)'};Product
+v;342;{'name': 'Pescador Filé Pescada', 'description': '1 X 1 Und', 'product-pum': '(R$26.50/und)'};Product
+v;345;{'name': 'Gomes Da Costa Atum em Pedaços', 'description': '1 X 500 g', 'product-pum': '(R$0.0610/gr)'};Product
+v;348;{'name': 'Maris Camarão Descascado Cozido', 'description': '1 X 400 g', 'product-pum': '(R$0.13/gr)'};Product
+v;351;{'name': 'Aurora Filé de Tilápia Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0437/gr)'};Product
+v;354;{'name': 'Bom Peixe Posta Cação sem Pele Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0238/gr)'};Product
+v;357;{'name': 'Copacol Filé de Tilápia Empanado', 'description': '1 X 400 g', 'product-pum': '(R$0.0688/gr)'};Product
+v;360;{'name': 'Costa Sul Filé de Salmão Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.12/gr)'};Product
+v;363;{'name': 'Komdelli Salmao Posta', 'description': '1 X 800 g', 'product-pum': '(R$0.0594/gr)'};Product
+v;366;{'name': 'Costa Sul Peixe Porco Evisc Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0124/gr)'};Product
+v;371;{'name': 'Costa Sul Pescados Sardinha Laje Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0210/gr)'};Product
+v;374;{'name': 'Brasmar Bacalhau Dessalgado Congelado', 'description': '1 X 450 g', 'product-pum': '(R$0.0712/gr)'};Product
+v;377;{'name': 'Pescador Peixe Sardinha Espalmada', 'description': '1 X 1 Und', 'product-pum': '(R$10.60/und)'};Product
+v;380;{'name': 'Cellier Atum Pedaços em Óleo Comestível com Caldo Vegetal', 'description': '1 X 500 g', 'product-pum': '(R$0.0518/gr)'};Product
+v;383;{'name': 'Brasmar Posta Saithe', 'description': '1 X 800 g', 'product-pum': '(R$0.0363/gr)'};Product
+v;386;{'name': 'Brasmar Lombo De Saithe Desossado Congelado', 'description': '1 X 1 Kg', 'product-pum': '(R$72.90/kg)'};Product
+v;389;{'name': 'Aurora Filé de Tilápia com Manteiga e Limão Bem Leve', 'description': '1 X 310 g', 'product-pum': '(R$0.0888/gr)'};Product
+v;392;{'name': 'Brasmar Lombo Bacalhau Do Porto', 'description': '1 X 1 Kg', 'product-pum': '(R$104.00/kg)'};Product
+v;395;{'name': 'Oceani Posta de Cação sem Pele Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0262/gr)'};Product
+v;398;{'name': 'Filé de Cascudinho do Mar Congelado sem Pele Costa Sul Pacote 500g', 'description': '1 X 500 g', 'product-pum': '(R$0.0346/gr)'};Product
+v;595;{'name': 'Swift Salmão Pocionado.', 'description': '1 X 125 g', 'product-pum': '(R$0.14/gr)'};Product
+v;598;{'name': 'Swift Filé de Tilápia sem Pele Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0488/gr)'};Product
+v;601;{'name': 'Copacol Filé de Tilápia Empanado Multigrãos', 'description': '1 X 400 g', 'product-pum': '(R$0.0613/gr)'};Product
+v;606;{'name': 'Vitalmar Camarão Inteiro Cozido', 'description': '1 X 400 g', 'product-pum': '(R$0.0574/gr)'};Product
+v;611;{'name': 'Swift Sardinha Espalmada', 'description': '1 X 500 g', 'product-pum': '(R$0.0240/gr)'};Product
+v;614;{'name': 'Costa Sul Camarão Congelado Descascado', 'description': '1 X 800 g', 'product-pum': '(R$0.0619/gr)'};Product
+v;617;{'name': 'Swift Filé de Pescada sem Pele', 'description': '1 X 500 g', 'product-pum': '(R$0.0460/gr)'};Product
+v;620;{'name': 'Camarão Swiftpre Cozido Sem Cabeca', 'description': '1 X 400 g', 'product-pum': '(R$0.0750/gr)'};Product
+v;623;{'name': 'Vitalmar Peixe Sardinha Inteira', 'description': '1 X 800 g', 'product-pum': '(R$0.0112/gr)'};Product
+v;628;{'name': 'Seara Filé de Merluza Fresco Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0490/gr)'};Product
+v;631;{'name': 'Iglu Manjuba Inteira Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0174/gr)'};Product
+v;634;{'name': 'Costa Sul Camarão Cozido sem Cabeça', 'description': '1 X 400 g', 'product-pum': '(R$0.0863/gr)'};Product
+v;637;{'name': 'Seara Filé de Salmão Pedaço', 'description': '1 X 500 g', 'product-pum': '(R$0.12/gr)'};Product
+v;640;{'name': 'Amazon Norte Filé de Peixe Pescada Congelada', 'description': '1 X 500 g', 'product-pum': '(R$0.0438/gr)'};Product
+v;645;{'name': 'Alavário Lombos de Bacalhau Congelado Dessalgado', 'description': '1 X 1 Kg', 'product-pum': '(R$99.00/kg)'};Product
+v;648;{'name': 'Vitalmar Filé De Sardinha Espalmada Peixe Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0174/gr)'};Product
+v;651;{'name': 'Costa Sul Linguado Evicerado', 'description': '1 X 800 g', 'product-pum': '(R$0.0207/gr)'};Product
+v;654;{'name': 'Filé Peixe Salmão Costa Sul Congelado', 'description': 'Aprox. 1000g/ud', 'product-pum': '(R$0.0899/gr)'};Product
+v;657;{'name': 'Vitalmar Camarão Congelado', 'description': '1 X 800 g', 'product-pum': '(R$0.0532/gr)'};Product
+v;660;{'name': 'Swift Pedaço De Salmão Congelado', 'description': '1 X 650 g', 'product-pum': '(R$0.13/gr)'};Product
+v;663;{'name': 'Swift Lombo de Pirarucu', 'description': '1 X 300 g', 'product-pum': '(R$0.0833/gr)'};Product
+v;666;{'name': 'Swift Camarão Cinza Descascado', 'description': '1 X 400 g', 'product-pum': '(R$0.1000/gr)'};Product
+v;669;{'name': 'Swift File de Truta Temperada', 'description': '1 X 150 g', 'product-pum': '(R$0.15/gr)'};Product
+v;672;{'name': 'Bom Porto Lombo Bacalhau Dessalgado', 'description': '1 X 1 Kg', 'product-pum': '(R$64.80/kg)'};Product
+v;675;{'name': 'Swift Medalhão de Merluza', 'description': '1 X 500 g', 'product-pum': '(R$0.0440/gr)'};Product
+v;678;{'name': 'Amazon Norte Peixe Pescada Eviscerada Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0139/gr)'};Product
+v;681;{'name': 'Pescador Atum Ralado ao Natural', 'description': '1 X 140 g', 'product-pum': '(R$0.0465/gr)'};Product
+v;684;{'name': 'Swift Filé de Peixe Pescada Amarela', 'description': '1 X 400 g', 'product-pum': '(R$0.11/gr)'};Product
+v;687;{'name': 'Riberalves Lombos de Bacalhau ', 'description': '1 X 1 Kg', 'product-pum': '(R$98.90/kg)'};Product
+v;692;{'name': 'Swift Filé de Tilápia Empanada', 'description': '1 X 500 g', 'product-pum': '(R$0.0840/gr)'};Product
+v;697;{'name': 'Vitalmar Filé Cascudinho', 'description': '1 X 800 g', 'product-pum': '(R$0.0344/gr)'};Product
+v;700;{'name': 'Karui Folha de Alga Marinha Yaki Nori ', 'description': '1 X 10 Und', 'product-pum': '(R$1.60/und)'};Product
+v;703;{'name': 'Vitalmar Posta Cação Congelador', 'description': '1 X 800 g', 'product-pum': '(R$0.0250/gr)'};Product
+v;706;{'name': 'Costa Sul Postas Postas Corvina Peixe', 'description': '1 X 800 g', 'product-pum': '(R$0.0274/gr)'};Product
+v;709;{'name': 'Pescador Atum Ralado Óleo', 'description': '1 X 140 g', 'product-pum': '(R$0.0465/gr)'};Product
+v;716;{'name': 'Swift Carpaccio de Salmão', 'description': '1 X 100 g', 'product-pum': '(R$0.20/gr)'};Product
+v;719;{'name': 'Vitalmar Peixe Congelado Palombeta', 'description': '1 X 1 Kg', 'product-pum': '(R$9.90/kg)'};Product
+v;722;{'name': 'Costa Sul Camarao Vannamei Inteiro Cozido Congelado', 'description': '1 X 400 g', 'product-pum': '(R$0.0498/gr)'};Product
+v;725;{'name': 'Vitalmar Peixe Savelha Evicerada', 'description': '1 X 1 Kg', 'product-pum': '(R$14.95/kg)'};Product
+v;728;{'name': 'Swift Bacalhau Desfiado Dessalgado', 'description': '1 X 500 g', 'product-pum': '(R$0.0800/gr)'};Product
+v;731;{'name': 'Costa Sul Camarão 7 Barbas Descascado', 'description': '1 X 400 g', 'product-pum': '(R$0.13/gr)'};Product
+v;734;{'name': 'Swift Filé De Truta Sem Espinha Congelada', 'description': '1 X 400 g', 'product-pum': '(R$0.0925/gr)'};Product
+v;737;{'name': 'Swift Filé de Merluza sem Pele', 'description': '1 X 800 g', 'product-pum': '(R$0.0425/gr)'};Product
+v;740;{'name': 'Swift Kit Paella Lula Camarão Mexilhão Congelado', 'description': '1 X 400 g', 'product-pum': '(R$0.0875/gr)'};Product
+v;749;{'name': 'C.Vale Filé Peixe Tilápia Congelado', 'description': '1 X 2 Kg', 'product-pum': '(R$39.95/kg)'};Product
+v;752;{'name': 'Vitalmar Camarao Descascado', 'description': '1 X 400 g', 'product-pum': '(R$0.12/gr)'};Product
+v;755;{'name': 'Swift Lula em Anéis', 'description': '1 X 400 g', 'product-pum': '(R$0.0750/gr)'};Product
+v;758;{'name': 'Swift Camarão Sem Cabeça Descascado Cozido', 'description': '1 X 400 g', 'product-pum': '(R$0.12/gr)'};Product
+v;1073;{'name': "Member's Mark Filé de Tilápia", 'description': '1 X 1 Kg', 'product-pum': '(R$57.98/kg)'};Product
+v;1078;{'name': "Filé Member'Smark De Salmao", 'description': '1 X 1 Kg', 'product-pum': '(R$119.98/kg)'};Product
+v;1081;{'name': 'Damm Posta de Salmão Premium', 'description': '1 X 500 g', 'product-pum': '(R$0.14/gr)'};Product
+v;1086;{'name': 'Frescatto Filé De Merluza Congelado', 'description': '1 X 500 g', 'product-pum': '(R$0.0680/gr)'};Product
+v;1091;{'name': 'Pif Paf Salmão Congelado 500 G', 'description': '1 X 500 g', 'product-pum': '(R$0.14/gr)'};Product
+v;1096;{'name': "Pack com 3 Member's Mark Atum Sólido ao Natural", 'description': '1 X 120 g', 'product-pum': '(R$0.22/gr)'};Product
+v;1099;{'name': 'Frescatto Tentaculos De Polvo Congelado', 'description': '1 X 700 g', 'product-pum': '(R$0.21/gr)'};Product
+v;1102;{'name': "Pack com 3 Member's Mark Atum em Pedaços ao Natural", 'description': '1 X 120 g', 'product-pum': '(R$0.22/gr)'};Product
+v;1105;{'name': 'Riberalves Bacalhau Desfiado Macrocepha', 'description': '1 X 1 Kg', 'product-pum': '(R$65.98/kg)'};Product
+v;1108;{'name': "Pack com 3 Member's Mark Atum Ralado em Óleo", 'description': '1 X 120 g', 'product-pum': '(R$0.19/gr)'};Product
+v;1111;{'name': 'Bom Porto Bolinhos Com Bacalhau Congelados', 'description': '1 X 360 g', 'product-pum': '(R$0.0694/gr)'};Product
+v;1114;{'name': 'Frescatto Camarão Rosa Descascado', 'description': '1 X 400 g', 'product-pum': '(R$0.48/gr)'};Product
+v;1117;{'name': "Member's Mark Lombo de Bacalhau", 'description': '1 X 2 Kg', 'product-pum': '(R$113.99/kg)'};Product
+v;1120;{'name': "Member's Mark Lombo de Bacalhau Dessalgado Congelado", 'description': '1 X 1 Kg', 'product-pum': '(R$129.98/kg)'};Product
+v;1123;{'name': "Member's Mark Pack Filé de Atum em Azeite", 'description': '1 X 120 g', 'product-pum': '(R$0.24/gr)'};Product
+v;1126;{'name': 'Frescatto Posta De Cacao Sem Pele', 'description': '1 X 500 g', 'product-pum': '(R$0.0400/gr)'};Product
+v;1129;{'name': 'Damm Pack Com 2Sardela', 'description': '1 X 120 g', 'product-pum': '(R$0.28/gr)'};Product
+v;1132;{'name': "Camarão Member'S Mark Cinza Cozido", 'description': '1 X 800 g', 'product-pum': '(R$0.11/gr)'};Product
+v;1137;{'name': "Member's Mark Atum Sólido Em Óleo", 'description': '1 X 510 g', 'product-pum': '(R$0.0510/gr)'};Product
+v;1140;{'name': 'Noronha Mexilhão Sem Casca', 'description': '1 X 400 g', 'product-pum': '(R$0.0575/gr)'};Product
+v;1143;{'name': 'Noronha Pescados Filé de Tilápia Temperado e Empanado', 'description': '1 X 500 g', 'product-pum': '(R$0.1000/gr)'};Product
+v;1146;{'name': "Member's Mark Lombo De Bacalhau Dessalgado Congelado", 'description': '1 X 1 Kg', 'product-pum': '(R$129.98/kg)'};Product
+v;1149;{'name': 'Noronha Pescados Filé de Merluza Temperado e Empanado', 'description': '1 X 500 g', 'product-pum': '(R$0.0760/gr)'};Product
+v;1152;{'name': 'Filé Blumar De Salmão Com Pele Congelado', 'description': '1 X 750 g', 'product-pum': '(R$0.18/gr)'};Product
+v;1155;{'name': 'Noronha Pescados Camarão Cinza Temperado e Empanado', 'description': '1 X 300 g', 'product-pum': '(R$0.17/gr)'};Product
+v;1158;{'name': 'Lombo Bacalhau Morhua Bom Porto 2 Kg', 'description': '1 X 2 Kg', 'product-pum': '(R$129.74/kg)'};Product
+e;7;{'price': 'R$ 23,69'};OFFERS;1;6
+e;10;{'price': 'R$ 49,69'};OFFERS;1;9
+e;13;{'price': 'R$ 29,99'};OFFERS;1;12
+e;16;{'price': 'R$ 37,69'};OFFERS;1;15
+e;19;{'price': 'R$ 49,95/u'};OFFERS;1;18
+e;22;{'price': 'R$ 35,99'};OFFERS;1;21
+e;25;{'price': 'R$ 12,99'};OFFERS;1;24
+e;28;{'price': 'R$ 29,79'};OFFERS;1;27
+e;31;{'price': 'R$ 59,99'};OFFERS;1;30
+e;34;{'price': 'R$ 23,69'};OFFERS;1;33
+e;37;{'price': 'R$ 76,99'};OFFERS;1;36
+e;40;{'price': 'R$ 29,90'};OFFERS;1;39
+e;43;{'price': 'R$ 19,99'};OFFERS;1;42
+e;46;{'price': 'R$ 79,90'};OFFERS;1;45
+e;49;{'price': 'R$ 71,90'};OFFERS;1;48
+e;52;{'price': 'R$ 11,29'};OFFERS;1;51
+e;55;{'price': 'R$ 9,99'};OFFERS;1;54
+e;58;{'price': 'R$ 114,99/kg'};OFFERS;1;57
+e;61;{'price': 'R$ 34,99'};OFFERS;1;60
+e;64;{'price': 'R$ 53,99'};OFFERS;1;63
+e;67;{'price': 'R$ 49,90'};OFFERS;1;66
+e;70;{'price': 'R$ 110,99'};OFFERS;1;69
+e;73;{'price': 'R$ 13,29'};OFFERS;1;72
+e;76;{'price': 'R$ 19,29'};OFFERS;1;75
+e;79;{'price': 'R$ 17,69'};OFFERS;1;78
+e;82;{'price': 'R$ 65,99'};OFFERS;1;81
+e;85;{'price': 'R$ 69,90'};OFFERS;1;84
+e;88;{'price': 'R$ 159,90'};OFFERS;1;87
+e;91;{'price': 'R$ 43,49'};OFFERS;1;90
+e;94;{'price': 'R$ 34,90'};OFFERS;1;93
+e;97;{'price': 'R$ 17,49'};OFFERS;1;96
+e;100;{'price': 'R$ 169,90'};OFFERS;1;99
+e;103;{'price': 'R$ 58,99'};OFFERS;1;102
+e;106;{'price': 'R$ 64,90'};OFFERS;1;105
+e;109;{'price': 'R$ 13,99'};OFFERS;1;108
+e;112;{'price': 'R$ 12,79'};OFFERS;1;111
+e;115;{'price': 'R$ 16,49'};OFFERS;1;114
+e;118;{'price': 'R$ 109,90'};OFFERS;1;117
+e;121;{'price': 'R$ 30,69'};OFFERS;1;120
+e;124;{'price': 'R$ 29,99'};OFFERS;1;123
+e;127;{'price': 'R$ 22,49'};OFFERS;1;126
+e;130;{'price': 'R$ 45,99'};OFFERS;1;129
+e;133;{'price': 'R$ 43,29'};OFFERS;1;132
+e;136;{'price': 'R$ 69,90'};OFFERS;1;135
+e;139;{'price': 'R$ 17,49'};OFFERS;1;138
+e;142;{'price': 'R$ 19,29'};OFFERS;1;141
+e;145;{'price': 'R$ 64,90'};OFFERS;1;144
+e;148;{'price': 'R$ 39,99'};OFFERS;1;147
+e;151;{'price': 'R$ 54,90'};OFFERS;1;150
+e;154;{'price': 'R$ 139,90'};OFFERS;1;153
+e;157;{'price': 'R$ 75,99'};OFFERS;1;156
+e;160;{'price': 'R$ 24,69'};OFFERS;1;159
+e;163;{'price': 'R$ 16,99'};OFFERS;1;162
+e;166;{'price': 'R$ 31,43'};OFFERS;1;165
+e;169;{'price': 'R$ 22,99'};OFFERS;1;168
+e;171;{'price': 'R$ 23,69'};OFFERS;2;6
+e;173;{'price': 'R$ 49,69'};OFFERS;2;9
+e;175;{'price': 'R$ 29,99'};OFFERS;2;12
+e;177;{'price': 'R$ 37,69'};OFFERS;2;15
+e;179;{'price': 'R$ 49,95/u'};OFFERS;2;18
+e;181;{'price': 'R$ 35,99'};OFFERS;2;21
+e;183;{'price': 'R$ 12,99'};OFFERS;2;24
+e;185;{'price': 'R$ 29,79'};OFFERS;2;27
+e;187;{'price': 'R$ 59,99'};OFFERS;2;30
+e;189;{'price': 'R$ 23,69'};OFFERS;2;33
+e;191;{'price': 'R$ 76,99'};OFFERS;2;36
+e;193;{'price': 'R$ 29,90'};OFFERS;2;39
+e;195;{'price': 'R$ 19,99'};OFFERS;2;42
+e;197;{'price': 'R$ 79,90'};OFFERS;2;45
+e;199;{'price': 'R$ 71,90'};OFFERS;2;48
+e;201;{'price': 'R$ 11,29'};OFFERS;2;51
+e;203;{'price': 'R$ 9,99'};OFFERS;2;54
+e;205;{'price': 'R$ 114,99/kg'};OFFERS;2;57
+e;207;{'price': 'R$ 34,99'};OFFERS;2;60
+e;209;{'price': 'R$ 53,99'};OFFERS;2;63
+e;211;{'price': 'R$ 49,90'};OFFERS;2;66
+e;213;{'price': 'R$ 110,99'};OFFERS;2;69
+e;215;{'price': 'R$ 13,29'};OFFERS;2;72
+e;217;{'price': 'R$ 19,29'};OFFERS;2;75
+e;219;{'price': 'R$ 17,69'};OFFERS;2;78
+e;221;{'price': 'R$ 65,99'};OFFERS;2;81
+e;223;{'price': 'R$ 69,90'};OFFERS;2;84
+e;225;{'price': 'R$ 159,90'};OFFERS;2;87
+e;227;{'price': 'R$ 43,49'};OFFERS;2;90
+e;229;{'price': 'R$ 34,90'};OFFERS;2;93
+e;231;{'price': 'R$ 17,49'};OFFERS;2;96
+e;233;{'price': 'R$ 169,90'};OFFERS;2;99
+e;235;{'price': 'R$ 58,99'};OFFERS;2;102
+e;237;{'price': 'R$ 64,90'};OFFERS;2;105
+e;239;{'price': 'R$ 13,99'};OFFERS;2;108
+e;241;{'price': 'R$ 12,79'};OFFERS;2;111
+e;243;{'price': 'R$ 16,49'};OFFERS;2;114
+e;245;{'price': 'R$ 109,90'};OFFERS;2;117
+e;247;{'price': 'R$ 30,69'};OFFERS;2;120
+e;249;{'price': 'R$ 29,99'};OFFERS;2;123
+e;251;{'price': 'R$ 22,49'};OFFERS;2;126
+e;253;{'price': 'R$ 45,99'};OFFERS;2;129
+e;255;{'price': 'R$ 43,29'};OFFERS;2;132
+e;257;{'price': 'R$ 69,90'};OFFERS;2;135
+e;259;{'price': 'R$ 17,49'};OFFERS;2;138
+e;261;{'price': 'R$ 19,29'};OFFERS;2;141
+e;263;{'price': 'R$ 64,90'};OFFERS;2;144
+e;265;{'price': 'R$ 39,99'};OFFERS;2;147
+e;267;{'price': 'R$ 54,90'};OFFERS;2;150
+e;269;{'price': 'R$ 139,90'};OFFERS;2;153
+e;271;{'price': 'R$ 75,99'};OFFERS;2;156
+e;273;{'price': 'R$ 24,69'};OFFERS;2;159
+e;275;{'price': 'R$ 16,99'};OFFERS;2;162
+e;277;{'price': 'R$ 31,43'};OFFERS;2;165
+e;279;{'price': 'R$ 22,99'};OFFERS;2;168
+e;282;{'price': 'R$ 42,50'};OFFERS;2;281
+e;285;{'price': 'R$ 19,98'};OFFERS;2;284
+e;288;{'price': 'R$ 14,90'};OFFERS;2;287
+e;291;{'price': 'R$ 33,50'};OFFERS;2;290
+e;294;{'price': 'R$ 20,50'};OFFERS;2;293
+e;297;{'price': 'R$ 12,50'};OFFERS;2;296
+e;300;{'price': 'R$ 15,50'};OFFERS;2;299
+e;303;{'price': 'R$ 22,70'};OFFERS;2;302
+e;305;{'price': 'R$ 8,20'};OFFERS;2;51
+e;308;{'price': 'R$ 27,50'};OFFERS;2;307
+e;311;{'price': 'R$ 20,50'};OFFERS;2;310
+e;314;{'price': 'R$ 7,99'};OFFERS;2;313
+e;317;{'price': 'R$ 39,00'};OFFERS;2;316
+e;320;{'price': 'R$ 11,34/u'};OFFERS;2;319
+e;323;{'price': 'R$ 33,00'};OFFERS;2;322
+e;326;{'price': 'R$ 11,30'};OFFERS;2;325
+e;329;{'price': 'R$ 12,79'};OFFERS;2;328
+e;331;{'price': 'R$ 12,80'};OFFERS;2;96
+e;334;{'price': 'R$ 10,20'};OFFERS;2;333
+e;337;{'price': 'R$ 18,40'};OFFERS;2;336
+e;340;{'price': 'R$ 21,90'};OFFERS;2;339
+e;343;{'price': 'R$ 26,50'};OFFERS;2;342
+e;346;{'price': 'R$ 30,50'};OFFERS;2;345
+e;349;{'price': 'R$ 50,50'};OFFERS;2;348
+e;352;{'price': 'R$ 34,90'};OFFERS;2;351
+e;355;{'price': 'R$ 11,90'};OFFERS;2;354
+e;358;{'price': 'R$ 27,50'};OFFERS;2;357
+e;361;{'price': 'R$ 58,00'};OFFERS;2;360
+e;364;{'price': 'R$ 47,50'};OFFERS;2;363
+e;367;{'price': 'R$ 9,90'};OFFERS;2;366
+e;369;{'price': 'R$ 49,98'};OFFERS;2;84
+e;372;{'price': 'R$ 16,80'};OFFERS;2;371
+e;375;{'price': 'R$ 32,00'};OFFERS;2;374
+e;378;{'price': 'R$ 10,60'};OFFERS;2;377
+e;381;{'price': 'R$ 25,90'};OFFERS;2;380
+e;384;{'price': 'R$ 29,00'};OFFERS;2;383
+e;387;{'price': 'R$ 72,90'};OFFERS;2;386
+e;390;{'price': 'R$ 27,50'};OFFERS;2;389
+e;393;{'price': 'R$ 104,00'};OFFERS;2;392
+e;396;{'price': 'R$ 20,90'};OFFERS;2;395
+e;399;{'price': 'R$ 17,30'};OFFERS;2;398
+e;401;{'price': 'R$ 23,69'};OFFERS;3;6
+e;403;{'price': 'R$ 49,69'};OFFERS;3;9
+e;405;{'price': 'R$ 29,99'};OFFERS;3;12
+e;407;{'price': 'R$ 37,69'};OFFERS;3;15
+e;409;{'price': 'R$ 49,95/u'};OFFERS;3;18
+e;411;{'price': 'R$ 35,99'};OFFERS;3;21
+e;413;{'price': 'R$ 12,99'};OFFERS;3;24
+e;415;{'price': 'R$ 29,79'};OFFERS;3;27
+e;417;{'price': 'R$ 59,99'};OFFERS;3;30
+e;419;{'price': 'R$ 23,69'};OFFERS;3;33
+e;421;{'price': 'R$ 76,99'};OFFERS;3;36
+e;423;{'price': 'R$ 29,90'};OFFERS;3;39
+e;425;{'price': 'R$ 19,99'};OFFERS;3;42
+e;427;{'price': 'R$ 79,90'};OFFERS;3;45
+e;429;{'price': 'R$ 71,90'};OFFERS;3;48
+e;431;{'price': 'R$ 11,29'};OFFERS;3;51
+e;433;{'price': 'R$ 9,99'};OFFERS;3;54
+e;435;{'price': 'R$ 114,99/kg'};OFFERS;3;57
+e;437;{'price': 'R$ 34,99'};OFFERS;3;60
+e;439;{'price': 'R$ 53,99'};OFFERS;3;63
+e;441;{'price': 'R$ 49,90'};OFFERS;3;66
+e;443;{'price': 'R$ 110,99'};OFFERS;3;69
+e;445;{'price': 'R$ 13,29'};OFFERS;3;72
+e;447;{'price': 'R$ 19,29'};OFFERS;3;75
+e;449;{'price': 'R$ 17,69'};OFFERS;3;78
+e;451;{'price': 'R$ 65,99'};OFFERS;3;81
+e;453;{'price': 'R$ 69,90'};OFFERS;3;84
+e;455;{'price': 'R$ 159,90'};OFFERS;3;87
+e;457;{'price': 'R$ 43,49'};OFFERS;3;90
+e;459;{'price': 'R$ 34,90'};OFFERS;3;93
+e;461;{'price': 'R$ 17,49'};OFFERS;3;96
+e;463;{'price': 'R$ 169,90'};OFFERS;3;99
+e;465;{'price': 'R$ 58,99'};OFFERS;3;102
+e;467;{'price': 'R$ 64,90'};OFFERS;3;105
+e;469;{'price': 'R$ 13,99'};OFFERS;3;108
+e;471;{'price': 'R$ 12,79'};OFFERS;3;111
+e;473;{'price': 'R$ 16,49'};OFFERS;3;114
+e;475;{'price': 'R$ 109,90'};OFFERS;3;117
+e;477;{'price': 'R$ 30,69'};OFFERS;3;120
+e;479;{'price': 'R$ 29,99'};OFFERS;3;123
+e;481;{'price': 'R$ 22,49'};OFFERS;3;126
+e;483;{'price': 'R$ 45,99'};OFFERS;3;129
+e;485;{'price': 'R$ 43,29'};OFFERS;3;132
+e;487;{'price': 'R$ 69,90'};OFFERS;3;135
+e;489;{'price': 'R$ 17,49'};OFFERS;3;138
+e;491;{'price': 'R$ 19,29'};OFFERS;3;141
+e;493;{'price': 'R$ 64,90'};OFFERS;3;144
+e;495;{'price': 'R$ 39,99'};OFFERS;3;147
+e;497;{'price': 'R$ 54,90'};OFFERS;3;150
+e;499;{'price': 'R$ 139,90'};OFFERS;3;153
+e;501;{'price': 'R$ 75,99'};OFFERS;3;156
+e;503;{'price': 'R$ 24,69'};OFFERS;3;159
+e;505;{'price': 'R$ 16,99'};OFFERS;3;162
+e;507;{'price': 'R$ 31,43'};OFFERS;3;165
+e;509;{'price': 'R$ 22,99'};OFFERS;3;168
+e;511;{'price': 'R$ 42,50'};OFFERS;3;281
+e;513;{'price': 'R$ 19,98'};OFFERS;3;284
+e;515;{'price': 'R$ 14,90'};OFFERS;3;287
+e;517;{'price': 'R$ 33,50'};OFFERS;3;290
+e;519;{'price': 'R$ 20,50'};OFFERS;3;293
+e;521;{'price': 'R$ 12,50'};OFFERS;3;296
+e;523;{'price': 'R$ 15,50'};OFFERS;3;299
+e;525;{'price': 'R$ 22,70'};OFFERS;3;302
+e;527;{'price': 'R$ 8,20'};OFFERS;3;51
+e;529;{'price': 'R$ 27,50'};OFFERS;3;307
+e;531;{'price': 'R$ 20,50'};OFFERS;3;310
+e;533;{'price': 'R$ 7,99'};OFFERS;3;313
+e;535;{'price': 'R$ 39,00'};OFFERS;3;316
+e;537;{'price': 'R$ 11,34/u'};OFFERS;3;319
+e;539;{'price': 'R$ 33,00'};OFFERS;3;322
+e;541;{'price': 'R$ 11,30'};OFFERS;3;325
+e;543;{'price': 'R$ 12,79'};OFFERS;3;328
+e;545;{'price': 'R$ 12,80'};OFFERS;3;96
+e;547;{'price': 'R$ 10,20'};OFFERS;3;333
+e;549;{'price': 'R$ 18,40'};OFFERS;3;336
+e;551;{'price': 'R$ 21,90'};OFFERS;3;339
+e;553;{'price': 'R$ 26,50'};OFFERS;3;342
+e;555;{'price': 'R$ 30,50'};OFFERS;3;345
+e;557;{'price': 'R$ 50,50'};OFFERS;3;348
+e;559;{'price': 'R$ 34,90'};OFFERS;3;351
+e;561;{'price': 'R$ 11,90'};OFFERS;3;354
+e;563;{'price': 'R$ 27,50'};OFFERS;3;357
+e;565;{'price': 'R$ 58,00'};OFFERS;3;360
+e;567;{'price': 'R$ 47,50'};OFFERS;3;363
+e;569;{'price': 'R$ 9,90'};OFFERS;3;366
+e;571;{'price': 'R$ 49,98'};OFFERS;3;84
+e;573;{'price': 'R$ 16,80'};OFFERS;3;371
+e;575;{'price': 'R$ 32,00'};OFFERS;3;374
+e;577;{'price': 'R$ 10,60'};OFFERS;3;377
+e;579;{'price': 'R$ 25,90'};OFFERS;3;380
+e;581;{'price': 'R$ 29,00'};OFFERS;3;383
+e;583;{'price': 'R$ 72,90'};OFFERS;3;386
+e;585;{'price': 'R$ 27,50'};OFFERS;3;389
+e;587;{'price': 'R$ 104,00'};OFFERS;3;392
+e;589;{'price': 'R$ 20,90'};OFFERS;3;395
+e;591;{'price': 'R$ 17,30'};OFFERS;3;398
+e;593;{'price': 'R$ 37,50'};OFFERS;3;281
+e;596;{'price': 'R$ 16,98'};OFFERS;3;595
+e;599;{'price': 'R$ 38,98'};OFFERS;3;598
+e;602;{'price': 'R$ 24,50'};OFFERS;3;601
+e;604;{'price': 'R$ 21,50'};OFFERS;3;284
+e;607;{'price': 'R$ 22,95'};OFFERS;3;606
+e;609;{'price': 'R$ 24,50'};OFFERS;3;357
+e;612;{'price': 'R$ 11,98'};OFFERS;3;611
+e;615;{'price': 'R$ 49,50'};OFFERS;3;614
+e;618;{'price': 'R$ 22,98'};OFFERS;3;617
+e;621;{'price': 'R$ 29,98'};OFFERS;3;620
+e;624;{'price': 'R$ 8,90'};OFFERS;3;623
+e;626;{'price': 'R$ 32,50'};OFFERS;3;290
+e;629;{'price': 'R$ 24,50'};OFFERS;3;628
+e;632;{'price': 'R$ 13,90'};OFFERS;3;631
+e;635;{'price': 'R$ 34,50'};OFFERS;3;634
+e;638;{'price': 'R$ 59,95'};OFFERS;3;637
+e;641;{'price': 'R$ 21,90'};OFFERS;3;640
+e;643;{'price': 'R$ 49,50'};OFFERS;3;360
+e;646;{'price': 'R$ 99,00'};OFFERS;3;645
+e;649;{'price': 'R$ 13,90'};OFFERS;3;648
+e;652;{'price': 'R$ 16,50'};OFFERS;3;651
+e;655;{'price': 'R$ 89,90/u'};OFFERS;3;654
+e;658;{'price': 'R$ 42,50'};OFFERS;3;657
+e;661;{'price': 'R$ 79,98'};OFFERS;3;660
+e;664;{'price': 'R$ 24,98'};OFFERS;3;663
+e;667;{'price': 'R$ 39,98'};OFFERS;3;666
+e;670;{'price': 'R$ 22,55'};OFFERS;3;669
+e;673;{'price': 'R$ 64,80'};OFFERS;3;672
+e;676;{'price': 'R$ 21,98'};OFFERS;3;675
+e;679;{'price': 'R$ 6,95'};OFFERS;3;678
+e;682;{'price': 'R$ 6,50'};OFFERS;3;681
+e;685;{'price': 'R$ 41,98'};OFFERS;3;684
+e;688;{'price': 'R$ 98,90'};OFFERS;3;687
+e;690;{'price': 'R$ 8,90'};OFFERS;3;72
+e;693;{'price': 'R$ 41,98'};OFFERS;3;692
+e;695;{'price': 'R$ 17,50'};OFFERS;3;366
+e;698;{'price': 'R$ 27,50'};OFFERS;3;697
+e;701;{'price': 'R$ 15,99'};OFFERS;3;700
+e;704;{'price': 'R$ 19,95'};OFFERS;3;703
+e;707;{'price': 'R$ 21,90'};OFFERS;3;706
+e;710;{'price': 'R$ 6,50'};OFFERS;3;709
+e;712;{'price': 'R$ 49,95'};OFFERS;3;84
+e;714;{'price': 'R$ 15,50'};OFFERS;3;371
+e;717;{'price': 'R$ 19,98'};OFFERS;3;716
+e;720;{'price': 'R$ 9,90'};OFFERS;3;719
+e;723;{'price': 'R$ 19,90'};OFFERS;3;722
+e;726;{'price': 'R$ 14,95'};OFFERS;3;725
+e;729;{'price': 'R$ 39,98'};OFFERS;3;728
+e;732;{'price': 'R$ 49,50'};OFFERS;3;731
+e;735;{'price': 'R$ 36,98'};OFFERS;3;734
+e;738;{'price': 'R$ 33,98'};OFFERS;3;737
+e;741;{'price': 'R$ 34,98'};OFFERS;3;740
+e;743;{'price': 'R$ 34,00'};OFFERS;3;374
+e;745;{'price': 'R$ 24,90'};OFFERS;3;339
+e;747;{'price': 'R$ 29,90'};OFFERS;3;345
+e;750;{'price': 'R$ 79,90'};OFFERS;3;749
+e;753;{'price': 'R$ 46,50'};OFFERS;3;752
+e;756;{'price': 'R$ 29,98'};OFFERS;3;755
+e;759;{'price': 'R$ 44,98'};OFFERS;3;758
+e;761;{'price': 'R$ 23,69'};OFFERS;4;6
+e;763;{'price': 'R$ 49,69'};OFFERS;4;9
+e;765;{'price': 'R$ 29,99'};OFFERS;4;12
+e;767;{'price': 'R$ 37,69'};OFFERS;4;15
+e;769;{'price': 'R$ 49,95/u'};OFFERS;4;18
+e;771;{'price': 'R$ 35,99'};OFFERS;4;21
+e;773;{'price': 'R$ 12,99'};OFFERS;4;24
+e;775;{'price': 'R$ 29,79'};OFFERS;4;27
+e;777;{'price': 'R$ 59,99'};OFFERS;4;30
+e;779;{'price': 'R$ 23,69'};OFFERS;4;33
+e;781;{'price': 'R$ 76,99'};OFFERS;4;36
+e;783;{'price': 'R$ 29,90'};OFFERS;4;39
+e;785;{'price': 'R$ 19,99'};OFFERS;4;42
+e;787;{'price': 'R$ 79,90'};OFFERS;4;45
+e;789;{'price': 'R$ 71,90'};OFFERS;4;48
+e;791;{'price': 'R$ 11,29'};OFFERS;4;51
+e;793;{'price': 'R$ 9,99'};OFFERS;4;54
+e;795;{'price': 'R$ 114,99/kg'};OFFERS;4;57
+e;797;{'price': 'R$ 34,99'};OFFERS;4;60
+e;799;{'price': 'R$ 53,99'};OFFERS;4;63
+e;801;{'price': 'R$ 49,90'};OFFERS;4;66
+e;803;{'price': 'R$ 110,99'};OFFERS;4;69
+e;805;{'price': 'R$ 13,29'};OFFERS;4;72
+e;807;{'price': 'R$ 19,29'};OFFERS;4;75
+e;809;{'price': 'R$ 17,69'};OFFERS;4;78
+e;811;{'price': 'R$ 65,99'};OFFERS;4;81
+e;813;{'price': 'R$ 69,90'};OFFERS;4;84
+e;815;{'price': 'R$ 159,90'};OFFERS;4;87
+e;817;{'price': 'R$ 43,49'};OFFERS;4;90
+e;819;{'price': 'R$ 34,90'};OFFERS;4;93
+e;821;{'price': 'R$ 17,49'};OFFERS;4;96
+e;823;{'price': 'R$ 169,90'};OFFERS;4;99
+e;825;{'price': 'R$ 58,99'};OFFERS;4;102
+e;827;{'price': 'R$ 64,90'};OFFERS;4;105
+e;829;{'price': 'R$ 13,99'};OFFERS;4;108
+e;831;{'price': 'R$ 12,79'};OFFERS;4;111
+e;833;{'price': 'R$ 16,49'};OFFERS;4;114
+e;835;{'price': 'R$ 109,90'};OFFERS;4;117
+e;837;{'price': 'R$ 30,69'};OFFERS;4;120
+e;839;{'price': 'R$ 29,99'};OFFERS;4;123
+e;841;{'price': 'R$ 22,49'};OFFERS;4;126
+e;843;{'price': 'R$ 45,99'};OFFERS;4;129
+e;845;{'price': 'R$ 43,29'};OFFERS;4;132
+e;847;{'price': 'R$ 69,90'};OFFERS;4;135
+e;849;{'price': 'R$ 17,49'};OFFERS;4;138
+e;851;{'price': 'R$ 19,29'};OFFERS;4;141
+e;853;{'price': 'R$ 64,90'};OFFERS;4;144
+e;855;{'price': 'R$ 39,99'};OFFERS;4;147
+e;857;{'price': 'R$ 54,90'};OFFERS;4;150
+e;859;{'price': 'R$ 139,90'};OFFERS;4;153
+e;861;{'price': 'R$ 75,99'};OFFERS;4;156
+e;863;{'price': 'R$ 24,69'};OFFERS;4;159
+e;865;{'price': 'R$ 16,99'};OFFERS;4;162
+e;867;{'price': 'R$ 31,43'};OFFERS;4;165
+e;869;{'price': 'R$ 22,99'};OFFERS;4;168
+e;871;{'price': 'R$ 42,50'};OFFERS;4;281
+e;873;{'price': 'R$ 19,98'};OFFERS;4;284
+e;875;{'price': 'R$ 14,90'};OFFERS;4;287
+e;877;{'price': 'R$ 33,50'};OFFERS;4;290
+e;879;{'price': 'R$ 20,50'};OFFERS;4;293
+e;881;{'price': 'R$ 12,50'};OFFERS;4;296
+e;883;{'price': 'R$ 15,50'};OFFERS;4;299
+e;885;{'price': 'R$ 22,70'};OFFERS;4;302
+e;887;{'price': 'R$ 8,20'};OFFERS;4;51
+e;889;{'price': 'R$ 27,50'};OFFERS;4;307
+e;891;{'price': 'R$ 20,50'};OFFERS;4;310
+e;893;{'price': 'R$ 7,99'};OFFERS;4;313
+e;895;{'price': 'R$ 39,00'};OFFERS;4;316
+e;897;{'price': 'R$ 11,34/u'};OFFERS;4;319
+e;899;{'price': 'R$ 33,00'};OFFERS;4;322
+e;901;{'price': 'R$ 11,30'};OFFERS;4;325
+e;903;{'price': 'R$ 12,79'};OFFERS;4;328
+e;905;{'price': 'R$ 12,80'};OFFERS;4;96
+e;907;{'price': 'R$ 10,20'};OFFERS;4;333
+e;909;{'price': 'R$ 18,40'};OFFERS;4;336
+e;911;{'price': 'R$ 21,90'};OFFERS;4;339
+e;913;{'price': 'R$ 26,50'};OFFERS;4;342
+e;915;{'price': 'R$ 30,50'};OFFERS;4;345
+e;917;{'price': 'R$ 50,50'};OFFERS;4;348
+e;919;{'price': 'R$ 34,90'};OFFERS;4;351
+e;921;{'price': 'R$ 11,90'};OFFERS;4;354
+e;923;{'price': 'R$ 27,50'};OFFERS;4;357
+e;925;{'price': 'R$ 58,00'};OFFERS;4;360
+e;927;{'price': 'R$ 47,50'};OFFERS;4;363
+e;929;{'price': 'R$ 9,90'};OFFERS;4;366
+e;931;{'price': 'R$ 49,98'};OFFERS;4;84
+e;933;{'price': 'R$ 16,80'};OFFERS;4;371
+e;935;{'price': 'R$ 32,00'};OFFERS;4;374
+e;937;{'price': 'R$ 10,60'};OFFERS;4;377
+e;939;{'price': 'R$ 25,90'};OFFERS;4;380
+e;941;{'price': 'R$ 29,00'};OFFERS;4;383
+e;943;{'price': 'R$ 72,90'};OFFERS;4;386
+e;945;{'price': 'R$ 27,50'};OFFERS;4;389
+e;947;{'price': 'R$ 104,00'};OFFERS;4;392
+e;949;{'price': 'R$ 20,90'};OFFERS;4;395
+e;951;{'price': 'R$ 17,30'};OFFERS;4;398
+e;953;{'price': 'R$ 37,50'};OFFERS;4;281
+e;955;{'price': 'R$ 16,98'};OFFERS;4;595
+e;957;{'price': 'R$ 38,98'};OFFERS;4;598
+e;959;{'price': 'R$ 24,50'};OFFERS;4;601
+e;961;{'price': 'R$ 21,50'};OFFERS;4;284
+e;963;{'price': 'R$ 22,95'};OFFERS;4;606
+e;965;{'price': 'R$ 24,50'};OFFERS;4;357
+e;967;{'price': 'R$ 11,98'};OFFERS;4;611
+e;969;{'price': 'R$ 49,50'};OFFERS;4;614
+e;971;{'price': 'R$ 22,98'};OFFERS;4;617
+e;973;{'price': 'R$ 29,98'};OFFERS;4;620
+e;975;{'price': 'R$ 8,90'};OFFERS;4;623
+e;977;{'price': 'R$ 32,50'};OFFERS;4;290
+e;979;{'price': 'R$ 24,50'};OFFERS;4;628
+e;981;{'price': 'R$ 13,90'};OFFERS;4;631
+e;983;{'price': 'R$ 34,50'};OFFERS;4;634
+e;985;{'price': 'R$ 59,95'};OFFERS;4;637
+e;987;{'price': 'R$ 21,90'};OFFERS;4;640
+e;989;{'price': 'R$ 49,50'};OFFERS;4;360
+e;991;{'price': 'R$ 99,00'};OFFERS;4;645
+e;993;{'price': 'R$ 13,90'};OFFERS;4;648
+e;995;{'price': 'R$ 16,50'};OFFERS;4;651
+e;997;{'price': 'R$ 89,90/u'};OFFERS;4;654
+e;999;{'price': 'R$ 42,50'};OFFERS;4;657
+e;1001;{'price': 'R$ 79,98'};OFFERS;4;660
+e;1003;{'price': 'R$ 24,98'};OFFERS;4;663
+e;1005;{'price': 'R$ 39,98'};OFFERS;4;666
+e;1007;{'price': 'R$ 22,55'};OFFERS;4;669
+e;1009;{'price': 'R$ 64,80'};OFFERS;4;672
+e;1011;{'price': 'R$ 21,98'};OFFERS;4;675
+e;1013;{'price': 'R$ 6,95'};OFFERS;4;678
+e;1015;{'price': 'R$ 6,50'};OFFERS;4;681
+e;1017;{'price': 'R$ 41,98'};OFFERS;4;684
+e;1019;{'price': 'R$ 98,90'};OFFERS;4;687
+e;1021;{'price': 'R$ 8,90'};OFFERS;4;72
+e;1023;{'price': 'R$ 41,98'};OFFERS;4;692
+e;1025;{'price': 'R$ 17,50'};OFFERS;4;366
+e;1027;{'price': 'R$ 27,50'};OFFERS;4;697
+e;1029;{'price': 'R$ 15,99'};OFFERS;4;700
+e;1031;{'price': 'R$ 19,95'};OFFERS;4;703
+e;1033;{'price': 'R$ 21,90'};OFFERS;4;706
+e;1035;{'price': 'R$ 6,50'};OFFERS;4;709
+e;1037;{'price': 'R$ 49,95'};OFFERS;4;84
+e;1039;{'price': 'R$ 15,50'};OFFERS;4;371
+e;1041;{'price': 'R$ 19,98'};OFFERS;4;716
+e;1043;{'price': 'R$ 9,90'};OFFERS;4;719
+e;1045;{'price': 'R$ 19,90'};OFFERS;4;722
+e;1047;{'price': 'R$ 14,95'};OFFERS;4;725
+e;1049;{'price': 'R$ 39,98'};OFFERS;4;728
+e;1051;{'price': 'R$ 49,50'};OFFERS;4;731
+e;1053;{'price': 'R$ 36,98'};OFFERS;4;734
+e;1055;{'price': 'R$ 33,98'};OFFERS;4;737
+e;1057;{'price': 'R$ 34,98'};OFFERS;4;740
+e;1059;{'price': 'R$ 34,00'};OFFERS;4;374
+e;1061;{'price': 'R$ 24,90'};OFFERS;4;339
+e;1063;{'price': 'R$ 29,90'};OFFERS;4;345
+e;1065;{'price': 'R$ 79,90'};OFFERS;4;749
+e;1067;{'price': 'R$ 46,50'};OFFERS;4;752
+e;1069;{'price': 'R$ 29,98'};OFFERS;4;755
+e;1071;{'price': 'R$ 44,98'};OFFERS;4;758
+e;1074;{'price': 'R$ 57,98'};OFFERS;4;1073
+e;1076;{'price': 'R$ 21,98'};OFFERS;4;15
+e;1079;{'price': 'R$ 119,98'};OFFERS;4;1078
+e;1082;{'price': 'R$ 69,98'};OFFERS;4;1081
+e;1084;{'price': 'R$ 17,98'};OFFERS;4;168
+e;1087;{'price': 'R$ 33,98'};OFFERS;4;1086
+e;1089;{'price': 'R$ 10,98'};OFFERS;4;27
+e;1092;{'price': 'R$ 66,98'};OFFERS;4;1091
+e;1094;{'price': 'R$ 59,98'};OFFERS;4;36
+e;1097;{'price': 'R$ 25,98'};OFFERS;4;1096
+e;1100;{'price': 'R$ 141,98'};OFFERS;4;1099
+e;1103;{'price': 'R$ 25,98'};OFFERS;4;1102
+e;1106;{'price': 'R$ 65,98'};OFFERS;4;1105
+e;1109;{'price': 'R$ 21,98'};OFFERS;4;1108
+e;1112;{'price': 'R$ 24,98'};OFFERS;4;1111
+e;1115;{'price': 'R$ 189,48'};OFFERS;4;1114
+e;1118;{'price': 'R$ 227,98'};OFFERS;4;1117
+e;1121;{'price': 'R$ 129,98'};OFFERS;4;1120
+e;1124;{'price': 'R$ 27,98'};OFFERS;4;1123
+e;1127;{'price': 'R$ 19,98'};OFFERS;4;1126
+e;1130;{'price': 'R$ 32,48'};OFFERS;4;1129
+e;1133;{'price': 'R$ 83,48'};OFFERS;4;1132
+e;1135;{'price': 'R$ 204,98'};OFFERS;4;99
+e;1138;{'price': 'R$ 25,98'};OFFERS;4;1137
+e;1141;{'price': 'R$ 22,98'};OFFERS;4;1140
+e;1144;{'price': 'R$ 49,98'};OFFERS;4;1143
+e;1147;{'price': 'R$ 129,98'};OFFERS;4;1146
+e;1150;{'price': 'R$ 37,98'};OFFERS;4;1149
+e;1153;{'price': 'R$ 131,98'};OFFERS;4;1152
+e;1156;{'price': 'R$ 49,48'};OFFERS;4;1155
+e;1159;{'price': 'R$ 259,48'};OFFERS;4;1158
+e;1161;{'price': 'R$ 30,98'};OFFERS;4;60

@@ -1,6 +1,4 @@
-from Graph import *
 from os import name, system
-
 
 class Menu:
 
@@ -15,6 +13,7 @@ class Menu:
     # for mac and linux(here, os.name is 'posix')
     else:
       system('clear')
+    print("BANCO DE DADOS EM GRAFOS")
     print("\n ----- MENU ----- \n")
     print("Q. Ler dados do arquivo grafo.txt;")
     print("W. Gravar dados no arquivo grafo.txt;")
@@ -25,4 +24,6 @@ class Menu:
     print("D. Mostrar conteúdo do arquivo;")
     print("F. Mostrar grafo;")
     print("Z. Apresentar a conexidade do grafo e o reduzido;")
-    print("X. Encerrar a aplicação.\n\n")
+    print("X. Encerrar a aplicação.")
+    print("C. Coloração sequencial.")
+    print("V. Algoritmo de menor caminho - Dijkstra\n\n")

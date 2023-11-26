@@ -1,8 +1,8 @@
-from testes import *
-from Graph import *
-from Menu import *
+from Models.Graph import Graph
+from Models.Menu import Menu
+from Models.Vertex import Vertex
+from Models.Edge import Edge
 
-# TODO:
 # 3.a [x] Ler dados do arquivo grafo.txt;
 # 3.b [x] Gravar dados no arquivo
 # 3.c [x] Inserir vértice
@@ -161,9 +161,11 @@ def main():
 
     # 3.h. Mostrar grafo.
     if option == 'F':
-      graph.show_adj_matrix()
+      key_option = input("Which edge key to show? >> ")
 
-      input("Press enter to continue.")
+      graph.show_adj_matrix(key_option)
+
+      input("\nPress enter to continue.")
 
     # 3.i. Apresentar a conexidade do grafo e o reduzido.
     if option == 'Z':
@@ -175,6 +177,52 @@ def main():
     # 3.j. Encerrar aplicacao.
     if option == 'X':
       running = False
+
+    # Coloracao
+    if option == 'C':
+      graph.sequential_graph_coloring()
+      input("\nPress enter to continue.")
+
+    # Dijkstra
+    if option == 'V':
+        v1 = Vertex(1, {}, 'varejista')
+        v2 = Vertex(2, {}, 'varejista')
+        v3 = Vertex(3, {}, 'varejista')
+        v4 = Vertex(4, {}, 'produto')
+        v5 = Vertex(5, {}, 'produto')
+        v6 = Vertex(6, {}, 'produto')
+
+        graph.add_vertex(v1)
+        graph.add_vertex(v2)
+        graph.add_vertex(v3)
+        graph.add_vertex(v4)
+        graph.add_vertex(v5)
+        graph.add_vertex(v6)
+
+        edge4 = Edge(7, v1, v4, {'price': 27.90}, 'e')
+        edge5 = Edge(8, v2, v4, {'price': 32.90}, 'e')
+        edge6 = Edge(9, v3, v4, {'price': 30.90}, 'e')
+        edge7 = Edge(10, v1, v5, {'price': 7.49}, 'e')
+        edge8 = Edge(11, v2, v5, {'price': 8.79}, 'e')
+        edge9 = Edge(12, v3, v5, {'price': 8.29}, 'e')
+        edge10 = Edge(13, v1, v6, {'price': 4.69}, 'e')
+        edge11 = Edge(14, v2, v6, {'price': 4.29}, 'e')
+        edge12 = Edge(15, v3, v6, {'price': 4.75}, 'e')
+
+        graph.add_edge(edge4)
+        graph.add_edge(edge5)
+        graph.add_edge(edge6)
+        graph.add_edge(edge7)
+        graph.add_edge(edge8)
+        graph.add_edge(edge9)
+        graph.add_edge(edge10)
+        graph.add_edge(edge11)
+        graph.add_edge(edge12)
+
+        src = input("Type the source vertex position >> ")
+        key = input("Which edge key to analyze? >> ")
+        graph.dijkstra(src, key)
+        input("\nPress enter to continue.")
 
 
 main()
